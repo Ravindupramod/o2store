@@ -1,0 +1,1690 @@
+{
+  "locations": [
+    {
+      "location_id": "DEMO_LOC0004",
+      "issued_qty": 34517.0,
+      "grn_qty": 23250.0,
+      "issued_val": 71074.71,
+      "grn_val": 96388.3,
+      "tx_count": 28402,
+      "lines_count": 18,
+      "main_category": "CUTG",
+      "main_category_value": 15681.1
+    },
+    {
+      "location_id": "DEMO_LOC0005",
+      "issued_qty": 22639.0,
+      "grn_qty": 18198.0,
+      "issued_val": 57186.08,
+      "grn_val": 57781.18,
+      "tx_count": 8142,
+      "lines_count": 17,
+      "main_category": "CUTG",
+      "main_category_value": 15550.61
+    },
+    {
+      "location_id": "DEMO_LOC0023",
+      "issued_qty": 15551.0,
+      "grn_qty": 2849.0,
+      "issued_val": 44998.51,
+      "grn_val": 25108.44,
+      "tx_count": 11636,
+      "lines_count": 14,
+      "main_category": "CUTG",
+      "main_category_value": 30938.0
+    },
+    {
+      "location_id": "DEMO_LOC0001",
+      "issued_qty": 5446.0,
+      "grn_qty": 18490.0,
+      "issued_val": 43692.46,
+      "grn_val": 79317.29,
+      "tx_count": 838,
+      "lines_count": 16,
+      "main_category": "CUTG",
+      "main_category_value": 27221.0
+    },
+    {
+      "location_id": "DEMO_LOC0022",
+      "issued_qty": 6381.0,
+      "grn_qty": 15.0,
+      "issued_val": 39109.77,
+      "grn_val": 3.0,
+      "tx_count": 530,
+      "lines_count": 17,
+      "main_category": "OEMAA",
+      "main_category_value": 3468.51
+    },
+    {
+      "location_id": "DEMO_LOC0016",
+      "issued_qty": 7028.0,
+      "grn_qty": 7476.0,
+      "issued_val": 31687.82,
+      "grn_val": 30439.54,
+      "tx_count": 3435,
+      "lines_count": 13,
+      "main_category": "CUTG",
+      "main_category_value": 17822.21
+    },
+    {
+      "location_id": "DEMO_LOC0006",
+      "issued_qty": 7483.0,
+      "grn_qty": 6347.0,
+      "issued_val": 18094.75,
+      "grn_val": 13266.69,
+      "tx_count": 3871,
+      "lines_count": 18,
+      "main_category": "DEVI",
+      "main_category_value": 1795.37
+    },
+    {
+      "location_id": "DEMO_LOC0017",
+      "issued_qty": 6416.0,
+      "grn_qty": 5866.0,
+      "issued_val": 16333.91,
+      "grn_val": 14526.63,
+      "tx_count": 3033,
+      "lines_count": 11,
+      "main_category": "GWIR",
+      "main_category_value": 2339.72
+    },
+    {
+      "location_id": "DEMO_LOC0008",
+      "issued_qty": 5275.0,
+      "grn_qty": 7146.0,
+      "issued_val": 14229.91,
+      "grn_val": 19855.67,
+      "tx_count": 2602,
+      "lines_count": 16,
+      "main_category": "CUTG",
+      "main_category_value": 2657.34
+    },
+    {
+      "location_id": "DEMO_LOC0003",
+      "issued_qty": 12840.0,
+      "grn_qty": 7669.0,
+      "issued_val": 14045.87,
+      "grn_val": 17811.58,
+      "tx_count": 8731,
+      "lines_count": 16,
+      "main_category": "CUTG",
+      "main_category_value": 1607.93
+    },
+    {
+      "location_id": "DEMO_LOC0002",
+      "issued_qty": 1639.0,
+      "grn_qty": 65.0,
+      "issued_val": 13494.24,
+      "grn_val": 493.0,
+      "tx_count": 2386,
+      "lines_count": 17,
+      "main_category": "OEMKT",
+      "main_category_value": 1824.57
+    },
+    {
+      "location_id": "DEMO_LOC0021",
+      "issued_qty": 3873.0,
+      "grn_qty": 7641.0,
+      "issued_val": 9657.6,
+      "grn_val": 12251.54,
+      "tx_count": 2131,
+      "lines_count": 17,
+      "main_category": "KNBP",
+      "main_category_value": 993.32
+    },
+    {
+      "location_id": "DEMO_LOC0019",
+      "issued_qty": 2680.0,
+      "grn_qty": 5542.0,
+      "issued_val": 9374.95,
+      "grn_val": 6434.97,
+      "tx_count": 1376,
+      "lines_count": 11,
+      "main_category": "CUTG",
+      "main_category_value": 2045.9
+    },
+    {
+      "location_id": "DEMO_LOC0027",
+      "issued_qty": 1020.0,
+      "grn_qty": 1653.0,
+      "issued_val": 8063.94,
+      "grn_val": 16023.83,
+      "tx_count": 401,
+      "lines_count": 4,
+      "main_category": "DEVI",
+      "main_category_value": 2224.71
+    },
+    {
+      "location_id": "DEMO_LOC0014",
+      "issued_qty": 41633.0,
+      "grn_qty": 0.0,
+      "issued_val": 4946.44,
+      "grn_val": 0.0,
+      "tx_count": 10489,
+      "lines_count": 14,
+      "main_category": "NEED",
+      "main_category_value": 4946.44
+    },
+    {
+      "location_id": "DEMO_LOC0013",
+      "issued_qty": 26505.0,
+      "grn_qty": 0.0,
+      "issued_val": 3657.66,
+      "grn_val": 0.0,
+      "tx_count": 23177,
+      "lines_count": 17,
+      "main_category": "NEED",
+      "main_category_value": 3657.66
+    },
+    {
+      "location_id": "DEMO_LOC0011",
+      "issued_qty": 16836.0,
+      "grn_qty": 0.0,
+      "issued_val": 2131.79,
+      "grn_val": 0.0,
+      "tx_count": 16208,
+      "lines_count": 18,
+      "main_category": "NEED",
+      "main_category_value": 1827.14
+    },
+    {
+      "location_id": "DEMO_LOC0028",
+      "issued_qty": 95.0,
+      "grn_qty": 564.0,
+      "issued_val": 2109.3,
+      "grn_val": 10866.22,
+      "tx_count": 53,
+      "lines_count": 2,
+      "main_category": "HWIT",
+      "main_category_value": 733.24
+    },
+    {
+      "location_id": "DEMO_LOC0010",
+      "issued_qty": 9844.0,
+      "grn_qty": 0.0,
+      "issued_val": 1970.65,
+      "grn_val": 0.0,
+      "tx_count": 9290,
+      "lines_count": 18,
+      "main_category": "NEED",
+      "main_category_value": 1060.15
+    },
+    {
+      "location_id": "DEMO_LOC0026",
+      "issued_qty": 135.0,
+      "grn_qty": 0.0,
+      "issued_val": 1762.38,
+      "grn_val": 0.0,
+      "tx_count": 238,
+      "lines_count": 2,
+      "main_category": "OEMPR",
+      "main_category_value": 852.18
+    },
+    {
+      "location_id": "DEMO_LOC0009",
+      "issued_qty": 2336.0,
+      "grn_qty": 757.0,
+      "issued_val": 1422.72,
+      "grn_val": 1011.84,
+      "tx_count": 2660,
+      "lines_count": 3,
+      "main_category": "OEMKT",
+      "main_category_value": 340.32
+    },
+    {
+      "location_id": "DEMO_LOC0015",
+      "issued_qty": 10324.0,
+      "grn_qty": 0.0,
+      "issued_val": 1353.4,
+      "grn_val": 0.0,
+      "tx_count": 9418,
+      "lines_count": 17,
+      "main_category": "NEED",
+      "main_category_value": 1353.4
+    },
+    {
+      "location_id": "DEMO_LOC0007",
+      "issued_qty": 10204.0,
+      "grn_qty": 0.0,
+      "issued_val": 962.71,
+      "grn_val": 0.0,
+      "tx_count": 8970,
+      "lines_count": 13,
+      "main_category": "NEED",
+      "main_category_value": 943.75
+    },
+    {
+      "location_id": "DEMO_LOC0012",
+      "issued_qty": 6874.0,
+      "grn_qty": 0.0,
+      "issued_val": 834.85,
+      "grn_val": 0.0,
+      "tx_count": 7158,
+      "lines_count": 10,
+      "main_category": "NEED",
+      "main_category_value": 834.85
+    },
+    {
+      "location_id": "DEMO_LOC0025",
+      "issued_qty": 265.0,
+      "grn_qty": 1818.0,
+      "issued_val": 520.83,
+      "grn_val": 1615.06,
+      "tx_count": 276,
+      "lines_count": 10,
+      "main_category": "CONV",
+      "main_category_value": 235.62
+    },
+    {
+      "location_id": "DEMO_LOC0020",
+      "issued_qty": 2850.0,
+      "grn_qty": 0.0,
+      "issued_val": 343.49,
+      "grn_val": 0.0,
+      "tx_count": 1763,
+      "lines_count": 16,
+      "main_category": "NEED",
+      "main_category_value": 342.33
+    },
+    {
+      "location_id": "DEMO_LOC0024",
+      "issued_qty": 994.0,
+      "grn_qty": 3240.0,
+      "issued_val": 147.41,
+      "grn_val": 2555.29,
+      "tx_count": 613,
+      "lines_count": 6,
+      "main_category": "NEED",
+      "main_category_value": 62.41
+    },
+    {
+      "location_id": "DEMO_LOC0018",
+      "issued_qty": 2.0,
+      "grn_qty": 5.0,
+      "issued_val": 23.04,
+      "grn_val": 3.5,
+      "tx_count": 27,
+      "lines_count": 1,
+      "main_category": "GIMT",
+      "main_category_value": 21.84
+    },
+    {
+      "location_id": "DEMO_LOC0029",
+      "issued_qty": 0.0,
+      "grn_qty": 6509.0,
+      "issued_val": 0.0,
+      "grn_val": 7698.1,
+      "tx_count": 35,
+      "lines_count": 0,
+      "main_category": "None",
+      "main_category_value": 0.0
+    }
+  ],
+  "lines": [
+    {
+      "line_name": "Finishing Line 02",
+      "issued_qty": 17964.0,
+      "issued_val": 115635.33,
+      "tx_count": 9534,
+      "main_category": "CUTG",
+      "main_category_value": 95221.97,
+      "main_asset": "CNC-Auto Cutter",
+      "main_asset_value": 36099.29
+    },
+    {
+      "line_name": "Cutting Line 02",
+      "issued_qty": 14683.0,
+      "issued_val": 33754.79,
+      "tx_count": 9714,
+      "main_category": "DEVI",
+      "main_category_value": 3016.37,
+      "main_asset": "Over Lock-4Th Sunken Bed Full Option",
+      "main_asset_value": 2805.12
+    },
+    {
+      "line_name": "Embroidery Line 02",
+      "issued_qty": 14598.0,
+      "issued_val": 32248.85,
+      "tx_count": 12177,
+      "main_category": "DEVI",
+      "main_category_value": 5480.41,
+      "main_asset": "Over Lock-4Th Sunken Bed Full Option",
+      "main_asset_value": 2896.73
+    },
+    {
+      "line_name": "Packing Line 02",
+      "issued_qty": 21519.0,
+      "issued_val": 23942.72,
+      "tx_count": 13368,
+      "main_category": "GPNI",
+      "main_category_value": 3289.49,
+      "main_asset": "Over Lock-4Th Sunken Bed Full Option",
+      "main_asset_value": 2315.49
+    },
+    {
+      "line_name": "Quality Inspection Line 01",
+      "issued_qty": 21250.0,
+      "issued_val": 18945.76,
+      "tx_count": 6856,
+      "main_category": "GPNI",
+      "main_category_value": 5703.19,
+      "main_asset": "Over Lock-4Th Sunken Bed Full Option",
+      "main_asset_value": 639.66
+    },
+    {
+      "line_name": "Finishing Line 01",
+      "issued_qty": 14317.0,
+      "issued_val": 15279.81,
+      "tx_count": 8525,
+      "main_category": "OEMAA",
+      "main_category_value": 1626.96,
+      "main_asset": "Flat Seam-Full Option",
+      "main_asset_value": 1743.94
+    },
+    {
+      "line_name": "Sewing Line 01",
+      "issued_qty": 15155.0,
+      "issued_val": 14984.47,
+      "tx_count": 8601,
+      "main_category": "PRES",
+      "main_category_value": 2638.03,
+      "main_asset": "Over Lock-4Th Cylinder Bed Full Option",
+      "main_asset_value": 704.55
+    },
+    {
+      "line_name": "Packing Line 01",
+      "issued_qty": 12824.0,
+      "issued_val": 11023.67,
+      "tx_count": 8196,
+      "main_category": "FEDO",
+      "main_category_value": 1957.45,
+      "main_asset": "Over Lock-4Th Sunken Bed Full Option",
+      "main_asset_value": 856.88
+    },
+    {
+      "line_name": "Washing Line 01",
+      "issued_qty": 11321.0,
+      "issued_val": 10721.22,
+      "tx_count": 9593,
+      "main_category": "DEVI",
+      "main_category_value": 2017.23,
+      "main_asset": "Over Lock-4Th Sunken Bed Full Option",
+      "main_asset_value": 931.32
+    },
+    {
+      "line_name": "Sewing Line 03",
+      "issued_qty": 8166.0,
+      "issued_val": 9820.47,
+      "tx_count": 7051,
+      "main_category": "LOOP",
+      "main_category_value": 842.71,
+      "main_asset": "Pad Printing-Single Colour",
+      "main_asset_value": 1414.57
+    },
+    {
+      "line_name": "Printing Line 01",
+      "issued_qty": 14820.0,
+      "issued_val": 9776.93,
+      "tx_count": 11826,
+      "main_category": "NEED",
+      "main_category_value": 1304.54,
+      "main_asset": "Over Lock-4Th Sunken Bed Full Option",
+      "main_asset_value": 955.06
+    },
+    {
+      "line_name": "Embroidery Line 01",
+      "issued_qty": 9608.0,
+      "issued_val": 9019.89,
+      "tx_count": 7330,
+      "main_category": "OEMDR",
+      "main_category_value": 1392.82,
+      "main_asset": "Flat Seam-Full Option",
+      "main_asset_value": 1287.98
+    },
+    {
+      "line_name": "Quality Inspection Line 02",
+      "issued_qty": 16546.0,
+      "issued_val": 7684.03,
+      "tx_count": 8097,
+      "main_category": "NEED",
+      "main_category_value": 1874.19,
+      "main_asset": "Over Lock-4Th Sunken Bed Full Option",
+      "main_asset_value": 813.04
+    },
+    {
+      "line_name": "Sewing Line 02",
+      "issued_qty": 9931.0,
+      "issued_val": 6870.37,
+      "tx_count": 7217,
+      "main_category": "KNBP",
+      "main_category_value": 1508.45,
+      "main_asset": "Zig Zag-Electronic",
+      "main_asset_value": 542.86
+    },
+    {
+      "line_name": "Button/Hole Line 01",
+      "issued_qty": 12561.0,
+      "issued_val": 6219.81,
+      "tx_count": 6280,
+      "main_category": "NEED",
+      "main_category_value": 1469.86,
+      "main_asset": "Zig Zag-Cutter Electronic",
+      "main_asset_value": 700.59
+    },
+    {
+      "line_name": "Heat Transfer Line 01",
+      "issued_qty": 10062.0,
+      "issued_val": 6019.4,
+      "tx_count": 8228,
+      "main_category": "CUTG",
+      "main_category_value": 1439.95,
+      "main_asset": "Flat Seam-Full Option",
+      "main_asset_value": 507.38
+    },
+    {
+      "line_name": "Ironing Line 01",
+      "issued_qty": 11081.0,
+      "issued_val": 4875.08,
+      "tx_count": 8266,
+      "main_category": "NEED",
+      "main_category_value": 1049.59,
+      "main_asset": "Flat Lock-Right Side Cutter Cylinder Bed Full Option",
+      "main_asset_value": 494.9
+    },
+    {
+      "line_name": "Cutting Line 01",
+      "issued_qty": 7283.0,
+      "issued_val": 4596.68,
+      "tx_count": 6169,
+      "main_category": "NEED",
+      "main_category_value": 749.38,
+      "main_asset": "Mini Boiler-With Flat Iron Table",
+      "main_asset_value": 448.12
+    }
+  ],
+  "assets": [
+    {
+      "asset_name": "CNC-Auto Cutter",
+      "issued_qty": 666.0,
+      "issued_val": 36244.79,
+      "tx_count": 204,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Over Lock-4Th Sunken Bed Full Option",
+      "issued_qty": 29773.0,
+      "issued_val": 19309.93,
+      "tx_count": 25532,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Bar Tack-Electronic",
+      "issued_qty": 18932.0,
+      "issued_val": 11599.63,
+      "tx_count": 20161,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Flat Lock-Left Side Cutter Cylinder Bed Full Option",
+      "issued_qty": 14685.0,
+      "issued_val": 11161.95,
+      "tx_count": 8078,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Flat Seam-Full Option",
+      "issued_qty": 16631.0,
+      "issued_val": 10706.18,
+      "tx_count": 9710,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Zig Zag-Electronic",
+      "issued_qty": 3506.0,
+      "issued_val": 9154.36,
+      "tx_count": 3719,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Flat Lock-Right Side Cutter Flat Bed Electronic",
+      "issued_qty": 14818.0,
+      "issued_val": 8878.38,
+      "tx_count": 9075,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Single Needle-Full Option",
+      "issued_qty": 21331.0,
+      "issued_val": 6535.23,
+      "tx_count": 21853,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Flat Lock-Right Side Cutter Cylinder Bed Full Option",
+      "issued_qty": 5880.0,
+      "issued_val": 6528.47,
+      "tx_count": 3935,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Zig Zag-Cutter Electronic",
+      "issued_qty": 2175.0,
+      "issued_val": 5822.09,
+      "tx_count": 2347,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Flat Lock-Right Side Cutter Flat Bed Full Option",
+      "issued_qty": 8567.0,
+      "issued_val": 5362.96,
+      "tx_count": 6287,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Spreaders-Auto",
+      "issued_qty": 69.0,
+      "issued_val": 5185.72,
+      "tx_count": 44,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Over Lock-4Th Cylinder Bed Full Option",
+      "issued_qty": 11341.0,
+      "issued_val": 3665.23,
+      "tx_count": 1697,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Zig Zag-Full Option",
+      "issued_qty": 1540.0,
+      "issued_val": 3478.04,
+      "tx_count": 1414,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Cutter Machine-Auto Cutter",
+      "issued_qty": 522.0,
+      "issued_val": 2840.92,
+      "tx_count": 245,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Flat Lock-Cylinder Bed Full Option",
+      "issued_qty": 5067.0,
+      "issued_val": 2775.07,
+      "tx_count": 3529,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Welt Pocket-Welt Pocket",
+      "issued_qty": 511.0,
+      "issued_val": 2489.47,
+      "tx_count": 327,
+      "lines_count": 10
+    },
+    {
+      "asset_name": "Over Lock-4Th Full option",
+      "issued_qty": 1395.0,
+      "issued_val": 1927.71,
+      "tx_count": 1054,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Binding Cutter-Piping",
+      "issued_qty": 11.0,
+      "issued_val": 1708.93,
+      "tx_count": 11,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Flat Lock-Cylinder Bed Puller Full Option",
+      "issued_qty": 3329.0,
+      "issued_val": 1706.77,
+      "tx_count": 2413,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Metering Device-Metering Device",
+      "issued_qty": 122.0,
+      "issued_val": 1645.29,
+      "tx_count": 93,
+      "lines_count": 17
+    },
+    {
+      "asset_name": "Flat Seam-Electronic",
+      "issued_qty": 2143.0,
+      "issued_val": 1584.11,
+      "tx_count": 1138,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Double Needle-Chain Stitch Electronic",
+      "issued_qty": 2950.0,
+      "issued_val": 1553.27,
+      "tx_count": 2113,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Button hole-Electronic",
+      "issued_qty": 583.0,
+      "issued_val": 1537.43,
+      "tx_count": 669,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Pad Printing-Single Colour",
+      "issued_qty": 29.0,
+      "issued_val": 1531.57,
+      "tx_count": 13,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Flat Lock-Left side cutter cylinder bed full option",
+      "issued_qty": 1437.0,
+      "issued_val": 1490.48,
+      "tx_count": 1144,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Automated - Automation back patch",
+      "issued_qty": 55.0,
+      "issued_val": 1446.68,
+      "tx_count": 70,
+      "lines_count": 12
+    },
+    {
+      "asset_name": "Lectra Cutter",
+      "issued_qty": 108.0,
+      "issued_val": 1418.26,
+      "tx_count": 8,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Automated - Care Label Device",
+      "issued_qty": 77.0,
+      "issued_val": 1404.93,
+      "tx_count": 89,
+      "lines_count": 8
+    },
+    {
+      "asset_name": "Mini Boiler-With Flat Iron Table",
+      "issued_qty": 44.0,
+      "issued_val": 1129.05,
+      "tx_count": 43,
+      "lines_count": 14
+    },
+    {
+      "asset_name": "Flat Lock-Left Side Cutter Cylinder Bed Electronic",
+      "issued_qty": 2849.0,
+      "issued_val": 1086.03,
+      "tx_count": 780,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Flat Lock-Flat Bed Full Option",
+      "issued_qty": 1583.0,
+      "issued_val": 1063.15,
+      "tx_count": 1125,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Over Lock-5Th Sunken Bed Full Option",
+      "issued_qty": 1821.0,
+      "issued_val": 993.18,
+      "tx_count": 1922,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Over Lock-6Th Sunken Bed Full Option",
+      "issued_qty": 1937.0,
+      "issued_val": 908.56,
+      "tx_count": 1705,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Double Needle-Single Bar Electronic",
+      "issued_qty": 1736.0,
+      "issued_val": 905.98,
+      "tx_count": 745,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Pad Printing-Double Colour",
+      "issued_qty": 10.0,
+      "issued_val": 843.28,
+      "tx_count": 7,
+      "lines_count": 5
+    },
+    {
+      "asset_name": "Flat Lock-Flat Bed Binding Electronic",
+      "issued_qty": 1363.0,
+      "issued_val": 774.13,
+      "tx_count": 925,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Double Needle-Single Bar Full Option",
+      "issued_qty": 928.0,
+      "issued_val": 718.84,
+      "tx_count": 465,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Automated - Auto side vent Sewing machine",
+      "issued_qty": 63.0,
+      "issued_val": 704.18,
+      "tx_count": 65,
+      "lines_count": 5
+    },
+    {
+      "asset_name": "Flat Lock-Right side cutter cylinder bed electronic",
+      "issued_qty": 1217.0,
+      "issued_val": 669.28,
+      "tx_count": 620,
+      "lines_count": 16
+    },
+    {
+      "asset_name": "Flat Lock-Flat Bed Binding Full Option",
+      "issued_qty": 1083.0,
+      "issued_val": 630.6,
+      "tx_count": 680,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Over Lock-4Th Back latch fully auto",
+      "issued_qty": 809.0,
+      "issued_val": 616.2,
+      "tx_count": 677,
+      "lines_count": 16
+    },
+    {
+      "asset_name": "Flat Lock-Flat Bed Electronic",
+      "issued_qty": 651.0,
+      "issued_val": 595.36,
+      "tx_count": 541,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Single Needle-Side Cutter Full Option",
+      "issued_qty": 583.0,
+      "issued_val": 539.51,
+      "tx_count": 468,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Single Needle-UBT",
+      "issued_qty": 305.0,
+      "issued_val": 514.22,
+      "tx_count": 98,
+      "lines_count": 10
+    },
+    {
+      "asset_name": "Flat Lock-Small Cylinder Bed Left Side Cutter Full Option",
+      "issued_qty": 463.0,
+      "issued_val": 508.7,
+      "tx_count": 332,
+      "lines_count": 15
+    },
+    {
+      "asset_name": "Eye Button hole-Electronic",
+      "issued_qty": 139.0,
+      "issued_val": 482.75,
+      "tx_count": 138,
+      "lines_count": 10
+    },
+    {
+      "asset_name": "Flat Lock-Right Side Cutter Cylinder Bed Electronic",
+      "issued_qty": 604.0,
+      "issued_val": 463.37,
+      "tx_count": 399,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Cutting Spreader",
+      "issued_qty": 14.0,
+      "issued_val": 462.41,
+      "tx_count": 9,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Flat Lock-Small Cylinder Bed Full Option",
+      "issued_qty": 1095.0,
+      "issued_val": 451.27,
+      "tx_count": 672,
+      "lines_count": 17
+    },
+    {
+      "asset_name": "Auto Cutter - Auto Cutter",
+      "issued_qty": 26.0,
+      "issued_val": 419.54,
+      "tx_count": 21,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Feed Of The Arm-3 Needle Electronic",
+      "issued_qty": 567.0,
+      "issued_val": 356.12,
+      "tx_count": 456,
+      "lines_count": 15
+    },
+    {
+      "asset_name": "Button Attacher-Electronic",
+      "issued_qty": 1465.0,
+      "issued_val": 351.96,
+      "tx_count": 1248,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Zig Zag-Cutter Full Option",
+      "issued_qty": 120.0,
+      "issued_val": 347.9,
+      "tx_count": 146,
+      "lines_count": 17
+    },
+    {
+      "asset_name": "Single Needle-Needle Feed Side Cutter Full Option",
+      "issued_qty": 203.0,
+      "issued_val": 347.1,
+      "tx_count": 161,
+      "lines_count": 14
+    },
+    {
+      "asset_name": "Over Lock-4Th Sunken bed electronic",
+      "issued_qty": 899.0,
+      "issued_val": 333.51,
+      "tx_count": 893,
+      "lines_count": 16
+    },
+    {
+      "asset_name": "Fusing Machine",
+      "issued_qty": 2.0,
+      "issued_val": 308.58,
+      "tx_count": 2,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Over Lock-4Th Raised Bed Full Option",
+      "issued_qty": 312.0,
+      "issued_val": 307.37,
+      "tx_count": 268,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Double Needle-Split Bar Full Option",
+      "issued_qty": 424.0,
+      "issued_val": 299.63,
+      "tx_count": 283,
+      "lines_count": 17
+    },
+    {
+      "asset_name": "Single Needle-Needle Feed Full Option",
+      "issued_qty": 2058.0,
+      "issued_val": 294.4,
+      "tx_count": 511,
+      "lines_count": 16
+    },
+    {
+      "asset_name": "Ultrasonic-Ultrasonic",
+      "issued_qty": 12.0,
+      "issued_val": 286.96,
+      "tx_count": 8,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Over Lock-4Th Back Latch Semi Auto",
+      "issued_qty": 383.0,
+      "issued_val": 278.34,
+      "tx_count": 328,
+      "lines_count": 15
+    },
+    {
+      "asset_name": "Over Lock-4Th Cylinder Bed Full Option With Front And Rear Puller",
+      "issued_qty": 714.0,
+      "issued_val": 267.3,
+      "tx_count": 565,
+      "lines_count": 17
+    },
+    {
+      "asset_name": "Over Lock-4Th Back Latch Fully Auto",
+      "issued_qty": 394.0,
+      "issued_val": 262.06,
+      "tx_count": 340,
+      "lines_count": 17
+    },
+    {
+      "asset_name": "Multi Needle-Cylinder Bed Electronic",
+      "issued_qty": 1316.0,
+      "issued_val": 256.0,
+      "tx_count": 521,
+      "lines_count": 17
+    },
+    {
+      "asset_name": "Heat Seal-Double Bed",
+      "issued_qty": 142.0,
+      "issued_val": 251.25,
+      "tx_count": 56,
+      "lines_count": 15
+    },
+    {
+      "asset_name": "Over Lock-4Th Sunken Bed Electronic",
+      "issued_qty": 367.0,
+      "issued_val": 249.43,
+      "tx_count": 383,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Single Needle-Electronic",
+      "issued_qty": 575.0,
+      "issued_val": 228.59,
+      "tx_count": 667,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Strap-Automatic Strap Cutting Machine",
+      "issued_qty": 1.0,
+      "issued_val": 220.0,
+      "tx_count": 1,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Flat Lock-Cylinder bed puller full option",
+      "issued_qty": 344.0,
+      "issued_val": 191.13,
+      "tx_count": 224,
+      "lines_count": 16
+    },
+    {
+      "asset_name": "Over Lock-4Th Top Feed Full Option",
+      "issued_qty": 317.0,
+      "issued_val": 179.76,
+      "tx_count": 235,
+      "lines_count": 18
+    },
+    {
+      "asset_name": "Single Needle-Lock stitch Bottom hem",
+      "issued_qty": 554.0,
+      "issued_val": 152.48,
+      "tx_count": 519,
+      "lines_count": 16
+    },
+    {
+      "asset_name": "Flat Lock-Small Cy Bed L Side cutter Full Option",
+      "issued_qty": 242.0,
+      "issued_val": 139.39,
+      "tx_count": 172,
+      "lines_count": 13
+    },
+    {
+      "asset_name": "Embroidery-20 head",
+      "issued_qty": 1370.0,
+      "issued_val": 139.21,
+      "tx_count": 146,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Single Needle-Side Cutter Electronic",
+      "issued_qty": 133.0,
+      "issued_val": 133.26,
+      "tx_count": 128,
+      "lines_count": 16
+    },
+    {
+      "asset_name": "Ring Robot-Auto sewing",
+      "issued_qty": 24.0,
+      "issued_val": 131.27,
+      "tx_count": 20,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Blind Stitch-Manual",
+      "issued_qty": 462.0,
+      "issued_val": 130.84,
+      "tx_count": 462,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Multi Needle-Cylinder bed Electronic",
+      "issued_qty": 697.0,
+      "issued_val": 123.48,
+      "tx_count": 408,
+      "lines_count": 14
+    },
+    {
+      "asset_name": "Double Needle-Split Bar Electronic",
+      "issued_qty": 216.0,
+      "issued_val": 121.14,
+      "tx_count": 142,
+      "lines_count": 14
+    },
+    {
+      "asset_name": "Ultrasonic Cutter Machine    - Tape Cutter Machine",
+      "issued_qty": 11.0,
+      "issued_val": 106.86,
+      "tx_count": 7,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "End Cutter-End Cutter",
+      "issued_qty": 19.0,
+      "issued_val": 105.16,
+      "tx_count": 14,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Flat Lock-Cylinder Bed 4 Needle Full Option",
+      "issued_qty": 270.0,
+      "issued_val": 101.93,
+      "tx_count": 184,
+      "lines_count": 15
+    },
+    {
+      "asset_name": "Flat Lock-Cylinder bed full option",
+      "issued_qty": 56.0,
+      "issued_val": 97.9,
+      "tx_count": 48,
+      "lines_count": 12
+    },
+    {
+      "asset_name": "Hand Cutter-8\" Machine",
+      "issued_qty": 96.0,
+      "issued_val": 95.31,
+      "tx_count": 70,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Over Lock-4Th Top feed Electronic",
+      "issued_qty": 5.0,
+      "issued_val": 93.1,
+      "tx_count": 4,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Over Lock-4Th Normal",
+      "issued_qty": 11.0,
+      "issued_val": 78.51,
+      "tx_count": 10,
+      "lines_count": 4
+    },
+    {
+      "asset_name": "Pull out Machine - Electronic",
+      "issued_qty": 50.0,
+      "issued_val": 66.51,
+      "tx_count": 40,
+      "lines_count": 4
+    },
+    {
+      "asset_name": "Patton Sewer-Patton Sewer",
+      "issued_qty": 370.0,
+      "issued_val": 66.26,
+      "tx_count": 433,
+      "lines_count": 16
+    },
+    {
+      "asset_name": "Flat Lock-Cylinder Bed Manual",
+      "issued_qty": 71.0,
+      "issued_val": 63.08,
+      "tx_count": 53,
+      "lines_count": 10
+    },
+    {
+      "asset_name": "Blind Stitch-Belt Loop",
+      "issued_qty": 112.0,
+      "issued_val": 61.07,
+      "tx_count": 111,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Flat Lock-Cylinder Bed Electronic",
+      "issued_qty": 116.0,
+      "issued_val": 59.83,
+      "tx_count": 91,
+      "lines_count": 11
+    },
+    {
+      "asset_name": "Manual Cutter",
+      "issued_qty": 25.0,
+      "issued_val": 57.05,
+      "tx_count": 17,
+      "lines_count": 4
+    },
+    {
+      "asset_name": "Over Lock-4Th Sunken Bed Manual",
+      "issued_qty": 45.0,
+      "issued_val": 55.33,
+      "tx_count": 56,
+      "lines_count": 11
+    },
+    {
+      "asset_name": "Flat Lock-Cylinder Bed Puller Electronic",
+      "issued_qty": 90.0,
+      "issued_val": 49.29,
+      "tx_count": 79,
+      "lines_count": 14
+    },
+    {
+      "asset_name": "Over Lock-4Th Cylinder Bed Electronic",
+      "issued_qty": 36.0,
+      "issued_val": 47.65,
+      "tx_count": 31,
+      "lines_count": 6
+    },
+    {
+      "asset_name": "Over Lock-4Th Cylinder bed",
+      "issued_qty": 15.0,
+      "issued_val": 45.5,
+      "tx_count": 14,
+      "lines_count": 5
+    },
+    {
+      "asset_name": "Feed Of The Arm-2 Needle Electronic",
+      "issued_qty": 321.0,
+      "issued_val": 42.13,
+      "tx_count": 234,
+      "lines_count": 9
+    },
+    {
+      "asset_name": "Auto Placket - Auto T shirt Placket",
+      "issued_qty": 9.0,
+      "issued_val": 41.84,
+      "tx_count": 14,
+      "lines_count": 4
+    },
+    {
+      "asset_name": "Over Lock-6Th Raised Bed Full Option",
+      "issued_qty": 9.0,
+      "issued_val": 38.87,
+      "tx_count": 5,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Over Lock-3Th Narrow Hem Electronic",
+      "issued_qty": 11.0,
+      "issued_val": 37.48,
+      "tx_count": 12,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Hand cutter-8\" machine",
+      "issued_qty": 13.0,
+      "issued_val": 36.36,
+      "tx_count": 11,
+      "lines_count": 0
+    },
+    {
+      "asset_name": "End Cutter",
+      "issued_qty": 20.0,
+      "issued_val": 34.97,
+      "tx_count": 20,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Over Lock-6Th Sunken Bed Electronic",
+      "issued_qty": 15.0,
+      "issued_val": 33.56,
+      "tx_count": 12,
+      "lines_count": 4
+    },
+    {
+      "asset_name": "Flat Lock-Extra Small Cylinder Bed Full Option",
+      "issued_qty": 93.0,
+      "issued_val": 29.05,
+      "tx_count": 72,
+      "lines_count": 9
+    },
+    {
+      "asset_name": "Over Lock-3Th Cut & Reinsert",
+      "issued_qty": 58.0,
+      "issued_val": 26.81,
+      "tx_count": 55,
+      "lines_count": 9
+    },
+    {
+      "asset_name": "Single Needle-Top And Bottom Puller Electronic",
+      "issued_qty": 50.0,
+      "issued_val": 24.61,
+      "tx_count": 83,
+      "lines_count": 13
+    },
+    {
+      "asset_name": "Over Lock-5Th Full option",
+      "issued_qty": 16.0,
+      "issued_val": 24.48,
+      "tx_count": 18,
+      "lines_count": 6
+    },
+    {
+      "asset_name": "Over Lock-4Th Cut And Re Enter",
+      "issued_qty": 56.0,
+      "issued_val": 24.43,
+      "tx_count": 51,
+      "lines_count": 12
+    },
+    {
+      "asset_name": "Elastic Tape Cutter - Auto Cutter",
+      "issued_qty": 1.0,
+      "issued_val": 20.22,
+      "tx_count": 1,
+      "lines_count": 0
+    },
+    {
+      "asset_name": "Flat Lock-Flat Bed 4 Needle Full Option",
+      "issued_qty": 142.0,
+      "issued_val": 18.54,
+      "tx_count": 117,
+      "lines_count": 8
+    },
+    {
+      "asset_name": "Over Lock-4Th Raised Bed Electronic",
+      "issued_qty": 23.0,
+      "issued_val": 16.79,
+      "tx_count": 23,
+      "lines_count": 6
+    },
+    {
+      "asset_name": "Band knife-Band knife",
+      "issued_qty": 2.0,
+      "issued_val": 14.1,
+      "tx_count": 2,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Single Needle-UBT with Clean Finish loop att",
+      "issued_qty": 2.0,
+      "issued_val": 11.88,
+      "tx_count": 2,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Flat Lock-Left Side Cutter Cylinder Bed Top Feed Full Option",
+      "issued_qty": 18.0,
+      "issued_val": 10.95,
+      "tx_count": 12,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Flat Lock-Small Cylinder Bed Top Feed Full Option",
+      "issued_qty": 81.0,
+      "issued_val": 10.09,
+      "tx_count": 32,
+      "lines_count": 5
+    },
+    {
+      "asset_name": "Flat Lock-Flat bed Electronic",
+      "issued_qty": 61.0,
+      "issued_val": 9.35,
+      "tx_count": 49,
+      "lines_count": 10
+    },
+    {
+      "asset_name": "BEKT- Presetting",
+      "issued_qty": 81.0,
+      "issued_val": 9.27,
+      "tx_count": 53,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Flat Lock-Flat Bed Binding Manual",
+      "issued_qty": 32.0,
+      "issued_val": 7.86,
+      "tx_count": 27,
+      "lines_count": 4
+    },
+    {
+      "asset_name": "Single Needle-Needle Feed Electronic",
+      "issued_qty": 69.0,
+      "issued_val": 7.36,
+      "tx_count": 73,
+      "lines_count": 12
+    },
+    {
+      "asset_name": "Over Lock-4Th Cylinder Bed Manual With Front And Rear Puller",
+      "issued_qty": 52.0,
+      "issued_val": 6.92,
+      "tx_count": 35,
+      "lines_count": 10
+    },
+    {
+      "asset_name": "Flat Lock-Pocket Facing Attach",
+      "issued_qty": 5.0,
+      "issued_val": 6.78,
+      "tx_count": 3,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Flat Lock-Small cylinder bed full option",
+      "issued_qty": 55.0,
+      "issued_val": 6.55,
+      "tx_count": 32,
+      "lines_count": 9
+    },
+    {
+      "asset_name": "Heat seal-Heat Seal",
+      "issued_qty": 1.0,
+      "issued_val": 5.8,
+      "tx_count": 1,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Hand Cutter",
+      "issued_qty": 2.0,
+      "issued_val": 5.73,
+      "tx_count": 1,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Over Lock-4Th Cylinder bed full option",
+      "issued_qty": 36.0,
+      "issued_val": 5.42,
+      "tx_count": 27,
+      "lines_count": 7
+    },
+    {
+      "asset_name": "Over Lock-4Th Top Feed Cylinder Bed Full Option",
+      "issued_qty": 4.0,
+      "issued_val": 5.32,
+      "tx_count": 6,
+      "lines_count": 3
+    },
+    {
+      "asset_name": "Triple Needle-Chain Stitch",
+      "issued_qty": 14.0,
+      "issued_val": 5.02,
+      "tx_count": 13,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Double Needle-Chain Stitch Manual",
+      "issued_qty": 24.0,
+      "issued_val": 3.33,
+      "tx_count": 16,
+      "lines_count": 4
+    },
+    {
+      "asset_name": "Iron Table-Boiler inbuilt Sq table with ES iron",
+      "issued_qty": 2.0,
+      "issued_val": 3.27,
+      "tx_count": 2,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Over Lock-4Th Sunken bed",
+      "issued_qty": 14.0,
+      "issued_val": 2.43,
+      "tx_count": 18,
+      "lines_count": 5
+    },
+    {
+      "asset_name": "Pattern sewing - Automatic Bra buckle",
+      "issued_qty": 23.0,
+      "issued_val": 2.26,
+      "tx_count": 22,
+      "lines_count": 9
+    },
+    {
+      "asset_name": "Feed Up the Arm  - Feed Up the Arm Full Option",
+      "issued_qty": 16.0,
+      "issued_val": 2.18,
+      "tx_count": 15,
+      "lines_count": 4
+    },
+    {
+      "asset_name": "Double Needle-Chain",
+      "issued_qty": 18.0,
+      "issued_val": 2.12,
+      "tx_count": 14,
+      "lines_count": 4
+    },
+    {
+      "asset_name": "Multi Needle-Cylinder Bed manual",
+      "issued_qty": 10.0,
+      "issued_val": 1.9,
+      "tx_count": 8,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Flat Lock-Flat Bed Manual",
+      "issued_qty": 15.0,
+      "issued_val": 1.76,
+      "tx_count": 6,
+      "lines_count": 4
+    },
+    {
+      "asset_name": "Flat Lock-Right Side Cutter Flat Bed Manual",
+      "issued_qty": 3.0,
+      "issued_val": 1.36,
+      "tx_count": 2,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Double Needle-Single bar UBT",
+      "issued_qty": 16.0,
+      "issued_val": 1.16,
+      "tx_count": 7,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Iron Table-Vacuum Squire table",
+      "issued_qty": 11.0,
+      "issued_val": 1.16,
+      "tx_count": 12,
+      "lines_count": 3
+    },
+    {
+      "asset_name": "Over Lock-4Th Back latch semi auto",
+      "issued_qty": 4.0,
+      "issued_val": 0.89,
+      "tx_count": 3,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Over Lock-6Th Raised Bed Electronic",
+      "issued_qty": 8.0,
+      "issued_val": 0.82,
+      "tx_count": 2,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Flat Lock-Feed up the arm electronic",
+      "issued_qty": 5.0,
+      "issued_val": 0.63,
+      "tx_count": 3,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Flat Lock-Cylinder bed manual",
+      "issued_qty": 5.0,
+      "issued_val": 0.62,
+      "tx_count": 7,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Cloth Puller-Cloth Puller Top (Rear)",
+      "issued_qty": 3.0,
+      "issued_val": 0.62,
+      "tx_count": 2,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Flat Lock-Small Cylinder Bed Electronic",
+      "issued_qty": 5.0,
+      "issued_val": 0.6,
+      "tx_count": 2,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Single Needle-Chain Stitch Electronic",
+      "issued_qty": 3.0,
+      "issued_val": 0.6,
+      "tx_count": 6,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Flat Lock-Feed Up The Arm Electronic",
+      "issued_qty": 4.0,
+      "issued_val": 0.48,
+      "tx_count": 1,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Over Lock-5Th Raised Bed Manual",
+      "issued_qty": 4.0,
+      "issued_val": 0.44,
+      "tx_count": 4,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Over Lock-4Th Top Feed Electronic",
+      "issued_qty": 1.0,
+      "issued_val": 0.43,
+      "tx_count": 1,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Over Lock-5Th Raised Bed Electronic",
+      "issued_qty": 4.0,
+      "issued_val": 0.43,
+      "tx_count": 2,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Multi Needle-Flat Bed Electronic",
+      "issued_qty": 2.0,
+      "issued_val": 0.4,
+      "tx_count": 1,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Snap Button-Pneumatic",
+      "issued_qty": 2.0,
+      "issued_val": 0.29,
+      "tx_count": 2,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Tape Feeder-Tape Feeder",
+      "issued_qty": 6.0,
+      "issued_val": 0.28,
+      "tx_count": 7,
+      "lines_count": 3
+    },
+    {
+      "asset_name": "Double Needle-Split Bar Manual",
+      "issued_qty": 14.0,
+      "issued_val": 0.28,
+      "tx_count": 8,
+      "lines_count": 3
+    },
+    {
+      "asset_name": "Iron Table-Flat",
+      "issued_qty": 2.0,
+      "issued_val": 0.25,
+      "tx_count": 1,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Flat Lock-Flat bed manual",
+      "issued_qty": 2.0,
+      "issued_val": 0.24,
+      "tx_count": 1,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Bonding-Laydown Machine",
+      "issued_qty": 2.0,
+      "issued_val": 0.22,
+      "tx_count": 1,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Over Lock-6Th Full option",
+      "issued_qty": 2.0,
+      "issued_val": 0.22,
+      "tx_count": 1,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Single Needle-Top And Bottom Puller Full Option",
+      "issued_qty": 4.0,
+      "issued_val": 0.2,
+      "tx_count": 7,
+      "lines_count": 5
+    },
+    {
+      "asset_name": "Iron-Electric / steam iron",
+      "issued_qty": 3.0,
+      "issued_val": 0.18,
+      "tx_count": 3,
+      "lines_count": 3
+    },
+    {
+      "asset_name": "Double Needle-Single Bar Manual",
+      "issued_qty": 2.0,
+      "issued_val": 0.15,
+      "tx_count": 4,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Double Needle-Automatic Folding",
+      "issued_qty": 2.0,
+      "issued_val": 0.12,
+      "tx_count": 1,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Single Needle-With Puller Full Option",
+      "issued_qty": 4.0,
+      "issued_val": 0.09,
+      "tx_count": 4,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Single Needle-Side Cutter Manual",
+      "issued_qty": 3.0,
+      "issued_val": 0.07,
+      "tx_count": 2,
+      "lines_count": 2
+    },
+    {
+      "asset_name": "Iron Table-Boiller inbuilt",
+      "issued_qty": 1.0,
+      "issued_val": 0.07,
+      "tx_count": 1,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Heat Seal-Single Bed",
+      "issued_qty": 1.0,
+      "issued_val": 0.06,
+      "tx_count": 1,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "BAR TACK MACHINE",
+      "issued_qty": 1.0,
+      "issued_val": 0.06,
+      "tx_count": 1,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Pico edge-Pico edge",
+      "issued_qty": 0.0,
+      "issued_val": 0.0,
+      "tx_count": 1,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Over Lock-6Th Sunken Bed Manual",
+      "issued_qty": 0.0,
+      "issued_val": 0.0,
+      "tx_count": 1,
+      "lines_count": 1
+    },
+    {
+      "asset_name": "Over Lock-4Th Elastic Attacher",
+      "issued_qty": 0.0,
+      "issued_val": 0.0,
+      "tx_count": 1,
+      "lines_count": 1
+    }
+  ]
+}

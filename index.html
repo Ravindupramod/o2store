@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>O2 Spare Parts Store Analytics Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Lucide Icons CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/lucide@0.344.0/dist/umd/lucide.min.js"></script>
+</head>
+<body>
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar">
+        <div class="brand">
+            <div class="brand-logo">O2</div>
+            <span class="brand-name">O2 Store Analytics</span>
+        </div>
+        
+        <nav>
+            <ul class="nav-menu">
+                <li>
+                    <a class="nav-item active" data-tab="overview">
+                        <i data-lucide="layout-dashboard"></i>
+                        <span>Overview Dashboard</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="nav-item" data-tab="inventory">
+                        <i data-lucide="package"></i>
+                        <span>Inventory (ABC) Catalog</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="nav-item" data-tab="operations">
+                        <i data-lucide="bar-chart-3"></i>
+                        <span>Operations & Returns</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="nav-item" data-tab="lines-assets">
+                        <i data-lucide="cpu"></i>
+                        <span>Line & Asset Analytics</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="nav-item" data-tab="forecasts-alerts">
+                        <i data-lucide="trending-up"></i>
+                        <span>Forecasts & Risks</span>
+                        <span id="alerts-count-badge" class="badge badge-risk" style="display: none; margin-left: auto; padding: 2px 6px;">0</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        
+        <div class="sidebar-footer">
+            <div class="store-badge">
+                <div class="store-badge-title">Data Period</div>
+                <div class="store-badge-value">Nov 2025 - Jan 2026</div>
+            </div>
+        </div>
+    </aside>
+
+    <!-- Main Panel -->
+    <main class="main-panel">
+        <header class="header">
+            <h1 class="page-title" id="page-title-text">Store Overview</h1>
+            <div class="header-meta">
+                <div class="date-badge">
+                    <i data-lucide="calendar" style="width: 16px; height: 16px;"></i>
+                    <span id="current-system-time">2026-06-25</span>
+                </div>
+            </div>
+        </header>
+
+        <div class="content">
+            <!-- Loader -->
+            <div id="loader-view" class="loader">
+                <div class="loader-spinner"></div>
+                <span>Analyzing and compiling dashboard aggregates...</span>
+            </div>
+
+            <!-- ================= OVERVIEW TAB ================= -->
+            <section id="tab-overview" class="tab-view active">
+                <!-- KPI Banner -->
+                <div class="kpi-grid">
+                    <div class="card primary kpi-card">
+                        <div class="kpi-header">
+                            <span class="kpi-title">Total Consumption</span>
+                            <div class="kpi-icon-wrapper"><i data-lucide="arrow-up-right"></i></div>
+                        </div>
+                        <div class="kpi-value" id="kpi-consumption">$0</div>
+                        <div class="kpi-meta"><span class="trend-down" id="kpi-qty-issued">0 items issued</span></div>
+                    </div>
+                    
+                    <div class="card emerald kpi-card">
+                        <div class="kpi-header">
+                            <span class="kpi-title">Total Replenished</span>
+                            <div class="kpi-icon-wrapper" style="color: var(--accent-emerald);"><i data-lucide="arrow-down-left"></i></div>
+                        </div>
+                        <div class="kpi-value" id="kpi-replenish">$0</div>
+                        <div class="kpi-meta"><span class="trend-up" id="kpi-qty-received">0 items received</span></div>
+                    </div>
+                    
+                    <div class="card amber kpi-card">
+                        <div class="kpi-header">
+                            <span class="kpi-title">Net Cash Flow</span>
+                            <div class="kpi-icon-wrapper" style="color: var(--accent-amber);"><i data-lucide="dollar-sign"></i></div>
+                        </div>
+                        <div class="kpi-value" id="kpi-flow">$0</div>
+                        <div class="kpi-meta"><span>Replenish vs. Consumption</span></div>
+                    </div>
+                    
+                    <div class="card rose kpi-card">
+                        <div class="kpi-header">
+                            <span class="kpi-title">Reusable Savings</span>
+                            <div class="kpi-icon-wrapper" style="color: var(--accent-cyan);"><i data-lucide="recycle"></i></div>
+                        </div>
+                        <div class="kpi-value" id="kpi-reusable-savings">$0</div>
+                        <div class="kpi-meta"><span id="kpi-reusable-pct">0% of txs reusable</span></div>
+                    </div>
+                </div>
+
+                <!-- Main Charts -->
+                <div class="chart-grid-2">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Consumption vs Replenishment Trends</h3>
+                            <div style="display: flex; gap: 8px;">
+                                <button class="pagination-btn" id="btn-trend-weekly" style="padding: 6px 12px; font-size: 12px;">Weekly</button>
+                                <button class="pagination-btn" id="btn-trend-monthly" style="padding: 6px 12px; font-size: 12px;">Monthly</button>
+                            </div>
+                        </div>
+                        <div class="chart-container-large">
+                            <canvas id="trendChart"></canvas>
+                        </div>
+                    </div>
+                    
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Value Breakdown</h3>
+                        </div>
+                        <div class="chart-container-large" style="display: flex; flex-direction: column; justify-content: space-around;">
+                            <div>
+                                <h4 style="font-size: 13px; color: var(--text-secondary); margin-bottom: 8px; text-transform: uppercase;">Top Categories</h4>
+                                <div id="top-cat-list" style="display: flex; flex-direction: column; gap: 8px;"></div>
+                            </div>
+                            <div style="border-top: 1px solid var(--border-color); padding-top: 16px;">
+                                <h4 style="font-size: 13px; color: var(--text-secondary); margin-bottom: 8px; text-transform: uppercase;">Top Locations</h4>
+                                <div id="top-loc-list" style="display: flex; flex-direction: column; gap: 8px;"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ================= INVENTORY ABC TAB ================= -->
+            <section id="tab-inventory" class="tab-view">
+                <div class="filter-bar">
+                    <div class="search-input-wrapper">
+                        <i data-lucide="search" class="search-icon"></i>
+                        <input type="text" id="sku-search" class="search-input" placeholder="Search SKU, Part No. or Product Name...">
+                    </div>
+                    
+                    <select id="filter-category" class="select-input">
+                        <option value="">All Categories</option>
+                    </select>
+
+                    <div style="display: flex; gap: 8px; align-items: center; border-left: 1px solid var(--border-color); padding-left: 16px;">
+                        <span style="font-size: 12px; color: var(--text-muted); font-weight: 600; text-transform: uppercase;">ABC Class:</span>
+                        <button class="pagination-btn active-class" id="btn-abc-all" style="padding: 6px 12px; font-size: 12px;">All</button>
+                        <button class="pagination-btn" id="btn-abc-a" style="padding: 6px 12px; font-size: 12px; border-color: rgba(16, 185, 129, 0.4);">A</button>
+                        <button class="pagination-btn" id="btn-abc-b" style="padding: 6px 12px; font-size: 12px; border-color: rgba(245, 158, 11, 0.4);">B</button>
+                        <button class="pagination-btn" id="btn-abc-c" style="padding: 6px 12px; font-size: 12px; border-color: rgba(59, 130, 246, 0.4);">C</button>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header">
+                        <h3 class="card-title">SKU Master Catalog & ABC Classification</h3>
+                    </div>
+                    <div class="table-wrapper">
+                        <table id="sku-table">
+                            <thead>
+                                <tr>
+                                    <th>SKU ID</th>
+                                    <th>Product Name</th>
+                                    <th>Category</th>
+                                    <th>Avg Price</th>
+                                    <th>Issued Qty</th>
+                                    <th>Issued Value</th>
+                                    <th>GRN Qty</th>
+                                    <th>Return Rate</th>
+                                    <th>Features</th>
+                                    <th>ABC Class</th>
+                                </tr>
+                            </thead>
+                            <tbody id="sku-table-body">
+                                <!-- JS Populated -->
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="pagination">
+                        <span class="pagination-info" id="sku-pagination-info">Showing 1-10 of 100 entries</span>
+                        <div style="display: flex; gap: 8px;">
+                            <button class="pagination-btn" id="sku-prev-btn">Previous</button>
+                            <button class="pagination-btn" id="sku-next-btn">Next</button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ================= OPERATIONS TAB ================= -->
+            <section id="tab-operations" class="tab-view">
+                <div class="chart-grid-2">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Order Reason Distribution (Quantity & Value)</h3>
+                        </div>
+                        <div class="chart-container-large">
+                            <canvas id="reasonsChart"></canvas>
+                        </div>
+                    </div>
+                    
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Quality Control: Return Rates by Category</h3>
+                        </div>
+                        <div class="table-wrapper">
+                            <table id="category-return-table">
+                                <thead>
+                                    <tr>
+                                        <th>Category</th>
+                                        <th>Issued Qty</th>
+                                        <th>Returned Qty</th>
+                                        <th>Return Rate</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="category-return-body">
+                                    <!-- JS Populated -->
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ================= LINES & ASSETS TAB ================= -->
+            <section id="tab-lines-assets" class="tab-view">
+                <div class="chart-grid-1-1">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Top 10 Consuming Assembly Lines (By Value)</h3>
+                        </div>
+                        <div class="chart-container-large">
+                            <canvas id="linesChart"></canvas>
+                        </div>
+                    </div>
+                    
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Top 10 Asset Classes Maintenance Cost</h3>
+                        </div>
+                        <div class="chart-container-large">
+                            <canvas id="assetsChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header">
+                        <h3 class="card-title">Assembly Line Performance Master List</h3>
+                    </div>
+                    <div class="table-wrapper">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Line Name</th>
+                                    <th>Transactions</th>
+                                    <th>Total Issued Qty</th>
+                                    <th>Total Cost (Issued Value)</th>
+                                    <th>Primary Category Consumed</th>
+                                    <th>Primary Asset Class</th>
+                                </tr>
+                            </thead>
+                            <tbody id="lines-table-body">
+                                <!-- JS Populated -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ================= FORECASTS & RISKS TAB ================= -->
+            <section id="tab-forecasts-alerts" class="tab-view">
+                <div class="chart-grid-2">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Weekly Needle consumption Forecast (Category: NEED)</h3>
+                        </div>
+                        <div class="chart-container-large">
+                            <canvas id="needleForecastChart"></canvas>
+                        </div>
+                        <div style="margin-top: 16px; font-size: 13px; color: var(--text-secondary); background: rgba(30, 41, 59, 0.4); border: 1px dashed var(--border-color); padding: 12px; border-radius: var(--radius-md);">
+                            <strong>Data Science Note:</strong> Projections use a 4-week moving average with a linear trend coefficient to forecast consumption for the next 4 weeks. Use this to pre-order needles and optimize stock holding.
+                        </div>
+                    </div>
+                    
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title" style="color: var(--accent-rose);">Active Anomalous Spikes</h3>
+                        </div>
+                        <div style="overflow-y: auto; max-height: 400px;" id="anomalies-list-container">
+                            <!-- JS Populated -->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header">
+                        <h3 class="card-title" style="color: var(--accent-rose); display: flex; align-items: center; gap: 8px;">
+                            <i data-lucide="alert-triangle"></i>
+                            Stockout Risk Alerts (High Demand, Zero Arrivals)
+                        </h3>
+                    </div>
+                    <div class="table-wrapper">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>SKU ID</th>
+                                    <th>Product Name</th>
+                                    <th>Category</th>
+                                    <th>Unit Price</th>
+                                    <th>Total Issued Qty</th>
+                                    <th>Total Issued Value</th>
+                                    <th>Recent Issued (Last 30 Days)</th>
+                                    <th>ABC Class</th>
+                                    <th>Risk Status</th>
+                                </tr>
+                            </thead>
+                            <tbody id="stockout-table-body">
+                                <!-- JS Populated -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

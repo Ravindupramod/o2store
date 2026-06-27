@@ -1,0 +1,684 @@
+{
+  "order_reasons": [
+    {
+      "reason": "Unspecified",
+      "count": 29620,
+      "qty": 86159.0,
+      "value": 392675.52
+    },
+    {
+      "reason": "Change - Blunt",
+      "count": 42106,
+      "qty": 74783.0,
+      "value": 9007.55
+    },
+    {
+      "reason": "Issue - New Machine",
+      "count": 15700,
+      "qty": 30235.0,
+      "value": 3463.31
+    },
+    {
+      "reason": "Completely Broken",
+      "count": 26483,
+      "qty": 30671.0,
+      "value": 3104.97
+    },
+    {
+      "reason": "Change - Bent",
+      "count": 5509,
+      "qty": 18816.0,
+      "value": 2488.12
+    },
+    {
+      "reason": "Issue - Style Change",
+      "count": 9669,
+      "qty": 17420.0,
+      "value": 2124.34
+    },
+    {
+      "reason": "Missing",
+      "count": 2106,
+      "qty": 2170.0,
+      "value": 212.35
+    },
+    {
+      "reason": "Partially Broken",
+      "count": 1381,
+      "qty": 1431.0,
+      "value": 155.03
+    }
+  ],
+  "anomalies": [
+    {
+      "line_name": "Packing Line 01",
+      "week_start": "2026-01-26",
+      "actual_value": 5134.84,
+      "expected_mean": 787.4,
+      "z_score": 3.6,
+      "deviation_pct": 552.1
+    },
+    {
+      "line_name": "Washing Line 01",
+      "week_start": "2026-01-26",
+      "actual_value": 6436.15,
+      "expected_mean": 765.8,
+      "z_score": 3.59,
+      "deviation_pct": 740.4
+    },
+    {
+      "line_name": "Embroidery Line 01",
+      "week_start": "2026-01-26",
+      "actual_value": 3594.1,
+      "expected_mean": 644.28,
+      "z_score": 3.49,
+      "deviation_pct": 457.8
+    },
+    {
+      "line_name": "Finishing Line 01",
+      "week_start": "2026-01-26",
+      "actual_value": 5344.18,
+      "expected_mean": 1091.42,
+      "z_score": 3.49,
+      "deviation_pct": 389.7
+    },
+    {
+      "line_name": "Heat Transfer Line 01",
+      "week_start": "2026-01-26",
+      "actual_value": 2153.2,
+      "expected_mean": 429.96,
+      "z_score": 3.46,
+      "deviation_pct": 400.8
+    },
+    {
+      "line_name": "Sewing Line 02",
+      "week_start": "2026-01-26",
+      "actual_value": 2414.44,
+      "expected_mean": 490.74,
+      "z_score": 3.42,
+      "deviation_pct": 392.0
+    },
+    {
+      "line_name": "Cutting Line 02",
+      "week_start": "2026-01-26",
+      "actual_value": 8894.02,
+      "expected_mean": 2411.06,
+      "z_score": 3.15,
+      "deviation_pct": 268.9
+    },
+    {
+      "line_name": "Printing Line 01",
+      "week_start": "2026-01-26",
+      "actual_value": 2091.96,
+      "expected_mean": 698.35,
+      "z_score": 2.99,
+      "deviation_pct": 199.6
+    },
+    {
+      "line_name": "Sewing Line 03",
+      "week_start": "2025-12-22",
+      "actual_value": 1856.58,
+      "expected_mean": 701.46,
+      "z_score": 2.86,
+      "deviation_pct": 164.7
+    },
+    {
+      "line_name": "Cutting Line 01",
+      "week_start": "2025-12-15",
+      "actual_value": 794.69,
+      "expected_mean": 328.33,
+      "z_score": 2.76,
+      "deviation_pct": 142.0
+    },
+    {
+      "line_name": "Quality Inspection Line 02",
+      "week_start": "2026-01-26",
+      "actual_value": 1776.69,
+      "expected_mean": 548.86,
+      "z_score": 2.76,
+      "deviation_pct": 223.7
+    },
+    {
+      "line_name": "Sewing Line 01",
+      "week_start": "2026-01-26",
+      "actual_value": 3823.49,
+      "expected_mean": 1070.32,
+      "z_score": 2.59,
+      "deviation_pct": 257.2
+    },
+    {
+      "line_name": "Finishing Line 02",
+      "week_start": "2026-01-12",
+      "actual_value": 20155.31,
+      "expected_mean": 8259.67,
+      "z_score": 2.58,
+      "deviation_pct": 144.0
+    },
+    {
+      "line_name": "Embroidery Line 02",
+      "week_start": "2026-01-26",
+      "actual_value": 8391.54,
+      "expected_mean": 2303.49,
+      "z_score": 2.47,
+      "deviation_pct": 264.3
+    },
+    {
+      "line_name": "Quality Inspection Line 01",
+      "week_start": "2025-12-15",
+      "actual_value": 4573.54,
+      "expected_mean": 1353.27,
+      "z_score": 2.44,
+      "deviation_pct": 238.0
+    },
+    {
+      "line_name": "Embroidery Line 02",
+      "week_start": "2026-01-19",
+      "actual_value": 7912.76,
+      "expected_mean": 2303.49,
+      "z_score": 2.28,
+      "deviation_pct": 243.5
+    }
+  ],
+  "stockout_risks": [
+    {
+      "sku": "GMSGMMACUTG0261",
+      "name": "MTK 2000H VT-LI-IX6-",
+      "category": "CUTG",
+      "abc_class": "A",
+      "total_issued_qty": 1.0,
+      "total_issued_val": 3810.73,
+      "recent_issued_qty": 0.0,
+      "price": 3810.73
+    },
+    {
+      "sku": "GMSGMMACUTG0260",
+      "name": "MTK 1000H VT-LI-IX6-",
+      "category": "CUTG",
+      "abc_class": "A",
+      "total_issued_qty": 1.0,
+      "total_issued_val": 2436.08,
+      "recent_issued_qty": 1.0,
+      "price": 2436.08
+    },
+    {
+      "sku": "GMSGMMADEVI0370",
+      "name": "SUCTION PIPE",
+      "category": "DEVI",
+      "abc_class": "A",
+      "total_issued_qty": 39.0,
+      "total_issued_val": 1957.8,
+      "recent_issued_qty": 39.0,
+      "price": 50.2
+    },
+    {
+      "sku": "GMSGMMACUTE0378",
+      "name": "RAILS PRISMATIC Y BEAM 71P",
+      "category": "CUTE",
+      "abc_class": "A",
+      "total_issued_qty": 1.0,
+      "total_issued_val": 1691.35,
+      "recent_issued_qty": 1.0,
+      "price": 1691.35
+    },
+    {
+      "sku": "OEMGSPRFEDO0010",
+      "name": "FINE FEED DOG SET",
+      "category": "FEDO",
+      "abc_class": "A",
+      "total_issued_qty": 37.0,
+      "total_issued_val": 1431.9,
+      "recent_issued_qty": 37.0,
+      "price": 38.7
+    },
+    {
+      "sku": "OEMGSPROEMD0009",
+      "name": "K2 DEVICE C.SET",
+      "category": "OEMDR",
+      "abc_class": "A",
+      "total_issued_qty": 11.0,
+      "total_issued_val": 1392.82,
+      "recent_issued_qty": 11.0,
+      "price": 126.62
+    },
+    {
+      "sku": "OEMGSPROEMH0018",
+      "name": "ASSY-RATCH-HOOK-OEM",
+      "category": "OEMHO",
+      "abc_class": "A",
+      "total_issued_qty": 14.0,
+      "total_issued_val": 1267.7,
+      "recent_issued_qty": 14.0,
+      "price": 90.55
+    },
+    {
+      "sku": "GMSGMMACUTG1052",
+      "name": "ROUND KNIFE",
+      "category": "CUTG",
+      "abc_class": "A",
+      "total_issued_qty": 5.0,
+      "total_issued_val": 1261.0,
+      "recent_issued_qty": 3.0,
+      "price": 252.2
+    },
+    {
+      "sku": "GMSGMMAELTN0562",
+      "name": "PLC BASE UNIT",
+      "category": "ELTN",
+      "abc_class": "A",
+      "total_issued_qty": 1.0,
+      "total_issued_val": 1255.49,
+      "recent_issued_qty": 0.0,
+      "price": 1255.49
+    },
+    {
+      "sku": "GMSGMMAELTN0536",
+      "name": "PLC BASE UNIT",
+      "category": "ELTN",
+      "abc_class": "A",
+      "total_issued_qty": 1.0,
+      "total_issued_val": 1197.37,
+      "recent_issued_qty": 0.0,
+      "price": 1197.37
+    },
+    {
+      "sku": "GMSGMMAGUID0416",
+      "name": "THREAD GUIDE",
+      "category": "GUID",
+      "abc_class": "A",
+      "total_issued_qty": 94.0,
+      "total_issued_val": 1191.92,
+      "recent_issued_qty": 94.0,
+      "price": 12.68
+    },
+    {
+      "sku": "OEMGSPROEMG0067",
+      "name": "WELT GUIDE COMPLETE",
+      "category": "OEMGA",
+      "abc_class": "A",
+      "total_issued_qty": 2.0,
+      "total_issued_val": 1165.72,
+      "recent_issued_qty": 2.0,
+      "price": 582.86
+    },
+    {
+      "sku": "OEMGSPROEMP0028",
+      "name": "PRESSER FOOT COM",
+      "category": "OEMPP",
+      "abc_class": "A",
+      "total_issued_qty": 6.0,
+      "total_issued_val": 1154.1,
+      "recent_issued_qty": 6.0,
+      "price": 192.35
+    },
+    {
+      "sku": "OEMGSPRKNBP0130",
+      "name": "MOVING KNIFE J ASM.",
+      "category": "KNBP",
+      "abc_class": "A",
+      "total_issued_qty": 66.0,
+      "total_issued_val": 1153.02,
+      "recent_issued_qty": 66.0,
+      "price": 17.47
+    },
+    {
+      "sku": "OEMGSPROEMF0008",
+      "name": "FEED DOG-OEM",
+      "category": "OEMFD",
+      "abc_class": "A",
+      "total_issued_qty": 30.0,
+      "total_issued_val": 910.2,
+      "recent_issued_qty": 30.0,
+      "price": 30.34
+    },
+    {
+      "sku": "OEMGSPROEMP0142",
+      "name": "PRESSER FOOT",
+      "category": "OEMPF",
+      "abc_class": "A",
+      "total_issued_qty": 3.0,
+      "total_issued_val": 843.9,
+      "recent_issued_qty": 3.0,
+      "price": 281.3
+    },
+    {
+      "sku": "GMSGMMACONV1511",
+      "name": "DROP FEED FEED DOG",
+      "category": "CONV",
+      "abc_class": "A",
+      "total_issued_qty": 40.0,
+      "total_issued_val": 843.2,
+      "recent_issued_qty": 40.0,
+      "price": 21.08
+    },
+    {
+      "sku": "GMAGSPROEMP0075",
+      "name": "PRESSE ARM-OEM",
+      "category": "OEMPR",
+      "abc_class": "A",
+      "total_issued_qty": 18.0,
+      "total_issued_val": 832.86,
+      "recent_issued_qty": 18.0,
+      "price": 46.27
+    },
+    {
+      "sku": "GMAGSPROEMK0010",
+      "name": "MOVABLE KNIFE ASSY-OEM",
+      "category": "OEMKT",
+      "abc_class": "A",
+      "total_issued_qty": 15.0,
+      "total_issued_val": 829.8,
+      "recent_issued_qty": 13.0,
+      "price": 77.9
+    },
+    {
+      "sku": "GMSGMMACUTG1867",
+      "name": "REPLACEMENT COMB SET",
+      "category": "CUTG",
+      "abc_class": "A",
+      "total_issued_qty": 1.0,
+      "total_issued_val": 827.05,
+      "recent_issued_qty": 1.0,
+      "price": 827.05
+    },
+    {
+      "sku": "GMSGMMACUTG1855",
+      "name": "REPLACEMENT COMB SET 138975",
+      "category": "CUTG",
+      "abc_class": "A",
+      "total_issued_qty": 1.0,
+      "total_issued_val": 809.62,
+      "recent_issued_qty": 0.0,
+      "price": 809.62
+    },
+    {
+      "sku": "GMSGMMADEVI0918",
+      "name": "PLC  - LX5V-3624MT-DN-CPU",
+      "category": "DEVI",
+      "abc_class": "A",
+      "total_issued_qty": 1.0,
+      "total_issued_val": 772.9,
+      "recent_issued_qty": 1.0,
+      "price": 772.9
+    },
+    {
+      "sku": "OEMGSPRBRAC0081",
+      "name": "SUCTION PIPE COMPLETE SET",
+      "category": "BRAC",
+      "abc_class": "A",
+      "total_issued_qty": 2.0,
+      "total_issued_val": 738.4,
+      "recent_issued_qty": 0.0,
+      "price": 369.2
+    },
+    {
+      "sku": "GCMGHDWGIMT0503",
+      "name": "WELDING ROD",
+      "category": "GIMT",
+      "abc_class": "A",
+      "total_issued_qty": 200.0,
+      "total_issued_val": 734.0,
+      "recent_issued_qty": 14.0,
+      "price": 3.67
+    },
+    {
+      "sku": "GMSGMMACUTG0999",
+      "name": "MOTION (MOVING)  MOTOR WHEEL",
+      "category": "CUTG",
+      "abc_class": "A",
+      "total_issued_qty": 4.0,
+      "total_issued_val": 638.04,
+      "recent_issued_qty": 2.0,
+      "price": 159.51
+    },
+    {
+      "sku": "GMSGMMADEVI0366",
+      "name": "SUCTION DEVICE ASSY",
+      "category": "DEVI",
+      "abc_class": "A",
+      "total_issued_qty": 6.0,
+      "total_issued_val": 604.82,
+      "recent_issued_qty": 2.0,
+      "price": 68.97
+    },
+    {
+      "sku": "GMSGMMACONV0003",
+      "name": "PRESSER FOOT",
+      "category": "CONV",
+      "abc_class": "A",
+      "total_issued_qty": 15.0,
+      "total_issued_val": 592.72,
+      "recent_issued_qty": 15.0,
+      "price": 39.51
+    },
+    {
+      "sku": "GMSGMMAELTN0580",
+      "name": "MECHANICAL LIMIT SWITCH FOR CAROUSEL MACHINE",
+      "category": "ELTN",
+      "abc_class": "A",
+      "total_issued_qty": 8.0,
+      "total_issued_val": 584.0,
+      "recent_issued_qty": 8.0,
+      "price": 73.0
+    },
+    {
+      "sku": "OEMGSPROEMR0012",
+      "name": "LOWER LOOPER ROD-OEM",
+      "category": "OEMRO",
+      "abc_class": "A",
+      "total_issued_qty": 19.0,
+      "total_issued_val": 558.79,
+      "recent_issued_qty": 19.0,
+      "price": 29.41
+    },
+    {
+      "sku": "OEMGSPROEML0007",
+      "name": "LOOPER HOLDER RIGHT-OEM",
+      "category": "OEMLO",
+      "abc_class": "A",
+      "total_issued_qty": 14.0,
+      "total_issued_val": 540.54,
+      "recent_issued_qty": 14.0,
+      "price": 38.61
+    },
+    {
+      "sku": "GMSGMMADEVI0913",
+      "name": "HMI - PI3043IES-N-HMI",
+      "category": "DEVI",
+      "abc_class": "A",
+      "total_issued_qty": 1.0,
+      "total_issued_val": 539.35,
+      "recent_issued_qty": 1.0,
+      "price": 539.35
+    },
+    {
+      "sku": "OEMGSPRFEDO0024",
+      "name": "DIFFERENTIAL FEED DOG",
+      "category": "FEDO",
+      "abc_class": "A",
+      "total_issued_qty": 40.0,
+      "total_issued_val": 525.2,
+      "recent_issued_qty": 40.0,
+      "price": 13.13
+    },
+    {
+      "sku": "OEMGSPRCNVK0073",
+      "name": "KNIFE BASE",
+      "category": "CNVK",
+      "abc_class": "A",
+      "total_issued_qty": 10.0,
+      "total_issued_val": 514.8,
+      "recent_issued_qty": 10.0,
+      "price": 51.48
+    },
+    {
+      "sku": "GMSGMMACUTG1165",
+      "name": "PULLEY POLY-V D=50",
+      "category": "CUTG",
+      "abc_class": "A",
+      "total_issued_qty": 6.0,
+      "total_issued_val": 493.87,
+      "recent_issued_qty": 4.0,
+      "price": 84.83
+    },
+    {
+      "sku": "GEEGGEIGWIR0090",
+      "name": "BOTTOM FIRE ROD HEATING ELEMENT 2 WIRE NO THERMOCOUPLE (SSM381-2)",
+      "category": "",
+      "abc_class": "A",
+      "total_issued_qty": 9.0,
+      "total_issued_val": 488.34,
+      "recent_issued_qty": 9.0,
+      "price": 54.26
+    },
+    {
+      "sku": "OEMGSPRELCI0025",
+      "name": "MAIN PCB",
+      "category": "ELCI",
+      "abc_class": "A",
+      "total_issued_qty": 1.0,
+      "total_issued_val": 473.88,
+      "recent_issued_qty": 0.0,
+      "price": 473.88
+    },
+    {
+      "sku": "OEMGSPROEMS0714",
+      "name": "SCREW",
+      "category": "OEMSC",
+      "abc_class": "A",
+      "total_issued_qty": 70.0,
+      "total_issued_val": 471.8,
+      "recent_issued_qty": 70.0,
+      "price": 6.74
+    },
+    {
+      "sku": "GMSGMMAGUID0327",
+      "name": "LIFT BAR",
+      "category": "GUID",
+      "abc_class": "A",
+      "total_issued_qty": 22.0,
+      "total_issued_val": 458.48,
+      "recent_issued_qty": 22.0,
+      "price": 20.84
+    },
+    {
+      "sku": "GMSGMMAGPNI0159",
+      "name": "SUCTION PIPE MOVABLE HEAD",
+      "category": "GPNI",
+      "abc_class": "A",
+      "total_issued_qty": 26.0,
+      "total_issued_val": 443.56,
+      "recent_issued_qty": 15.0,
+      "price": 17.06
+    },
+    {
+      "sku": "GMSGMMAGUID0405",
+      "name": "PNEUMATIC AUTO LIFTER CYLINDER",
+      "category": "GUID",
+      "abc_class": "A",
+      "total_issued_qty": 4.0,
+      "total_issued_val": 416.28,
+      "recent_issued_qty": 4.0,
+      "price": 104.07
+    },
+    {
+      "sku": "OEMGSPRKNBP0131",
+      "name": "MOVING KNIFE ASM.",
+      "category": "KNBP",
+      "abc_class": "A",
+      "total_issued_qty": 37.0,
+      "total_issued_val": 412.05,
+      "recent_issued_qty": 5.0,
+      "price": 9.14
+    },
+    {
+      "sku": "OEMGSPROEMF0053",
+      "name": "HOOK-OEM",
+      "category": "OEMHO",
+      "abc_class": "A",
+      "total_issued_qty": 10.0,
+      "total_issued_val": 403.0,
+      "recent_issued_qty": 2.0,
+      "price": 40.3
+    },
+    {
+      "sku": "GMSGMMACUTG1008",
+      "name": "CUTTING MOTOR  W/SHAFT",
+      "category": "CUTG",
+      "abc_class": "A",
+      "total_issued_qty": 1.0,
+      "total_issued_val": 399.5,
+      "recent_issued_qty": 1.0,
+      "price": 399.5
+    },
+    {
+      "sku": "GMSGMMAGPNI0157",
+      "name": "SUCTION PIPE MOVABLE SUPPORT",
+      "category": "GPNI",
+      "abc_class": "A",
+      "total_issued_qty": 21.0,
+      "total_issued_val": 397.5,
+      "recent_issued_qty": 21.0,
+      "price": 18.93
+    },
+    {
+      "sku": "OEMGSPROEML0069",
+      "name": "LOOPER - OEM",
+      "category": "OEMLO",
+      "abc_class": "A",
+      "total_issued_qty": 1.0,
+      "total_issued_val": 394.42,
+      "recent_issued_qty": 0.0,
+      "price": 394.42
+    },
+    {
+      "sku": "OEMGSPRHOOK0001",
+      "name": "HOOK HOOK COMPAL RIGHT",
+      "category": "HOOK",
+      "abc_class": "A",
+      "total_issued_qty": 3.0,
+      "total_issued_val": 392.88,
+      "recent_issued_qty": 1.0,
+      "price": 132.09
+    },
+    {
+      "sku": "OEMGSPROEMT0065",
+      "name": "UPPER LOPPER GUIDE",
+      "category": "OEMTG",
+      "abc_class": "A",
+      "total_issued_qty": 9.0,
+      "total_issued_val": 388.85,
+      "recent_issued_qty": 9.0,
+      "price": 43.21
+    },
+    {
+      "sku": "OEMGSPROEMA0356",
+      "name": "DOUBLE SIDE CUT PRESSOR FOOT C.SET.",
+      "category": "OEMAA",
+      "abc_class": "A",
+      "total_issued_qty": 1.0,
+      "total_issued_val": 386.0,
+      "recent_issued_qty": 0.0,
+      "price": 386.0
+    },
+    {
+      "sku": "GMSGMMACUTG0594",
+      "name": "KNIFE 11MM (NA8-18MM)",
+      "category": "CUTG",
+      "abc_class": "A",
+      "total_issued_qty": 16.0,
+      "total_issued_val": 382.32,
+      "recent_issued_qty": 16.0,
+      "price": 23.9
+    },
+    {
+      "sku": "OEMGSPROEMT0108",
+      "name": "THREAD TENSION T COMPL.",
+      "category": "OEMTT",
+      "abc_class": "A",
+      "total_issued_qty": 270.0,
+      "total_issued_val": 378.0,
+      "recent_issued_qty": 270.0,
+      "price": 1.4
+    }
+  ]
+}

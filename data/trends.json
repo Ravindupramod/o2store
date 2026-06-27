@@ -1,0 +1,984 @@
+{
+  "daily": [
+    {
+      "date": "2025-11-01",
+      "tx_count": 1935,
+      "issued_qty": 2836.0,
+      "grn_qty": 2659.0,
+      "issued_val": 4599.92000000003,
+      "grn_val": 3210.619999999999,
+      "returned_qty": 400.0
+    },
+    {
+      "date": "2025-11-03",
+      "tx_count": 1972,
+      "issued_qty": 3071.0,
+      "grn_qty": 557.0,
+      "issued_val": 5456.500000000002,
+      "grn_val": 5878.020000000001,
+      "returned_qty": 1212.0
+    },
+    {
+      "date": "2025-11-04",
+      "tx_count": 2508,
+      "issued_qty": 3431.0,
+      "grn_qty": 3818.0,
+      "issued_val": 4709.73000000002,
+      "grn_val": 16329.62,
+      "returned_qty": 582.0
+    },
+    {
+      "date": "2025-11-05",
+      "tx_count": 32,
+      "issued_qty": 52.0,
+      "grn_qty": 0.0,
+      "issued_val": 2.1900000000000004,
+      "grn_val": 0.0,
+      "returned_qty": 0.0
+    },
+    {
+      "date": "2025-11-06",
+      "tx_count": 2328,
+      "issued_qty": 4755.0,
+      "grn_qty": 1700.0,
+      "issued_val": 5675.630000000011,
+      "grn_val": 6400.360000000001,
+      "returned_qty": 677.0
+    },
+    {
+      "date": "2025-11-07",
+      "tx_count": 2275,
+      "issued_qty": 3600.0,
+      "grn_qty": 256.0,
+      "issued_val": 4176.7500000000055,
+      "grn_val": 912.75,
+      "returned_qty": 1565.0
+    },
+    {
+      "date": "2025-11-08",
+      "tx_count": 2099,
+      "issued_qty": 2724.0,
+      "grn_qty": 1301.0,
+      "issued_val": 5792.420000000016,
+      "grn_val": 3541.94,
+      "returned_qty": 429.0
+    },
+    {
+      "date": "2025-11-09",
+      "tx_count": 5,
+      "issued_qty": 515.0,
+      "grn_qty": 0.0,
+      "issued_val": 75.88999999999999,
+      "grn_val": 0.0,
+      "returned_qty": 0.0
+    },
+    {
+      "date": "2025-11-10",
+      "tx_count": 2014,
+      "issued_qty": 4348.0,
+      "grn_qty": 1978.0,
+      "issued_val": 4430.42000000003,
+      "grn_val": 999.3599999999999,
+      "returned_qty": 1869.0
+    },
+    {
+      "date": "2025-11-11",
+      "tx_count": 2778,
+      "issued_qty": 5322.0,
+      "grn_qty": 2237.0,
+      "issued_val": 6003.310000000049,
+      "grn_val": 21940.699999999993,
+      "returned_qty": 756.0
+    },
+    {
+      "date": "2025-11-12",
+      "tx_count": 2705,
+      "issued_qty": 4110.0,
+      "grn_qty": 2967.0,
+      "issued_val": 4800.660000000023,
+      "grn_val": 3578.9100000000003,
+      "returned_qty": 762.0
+    },
+    {
+      "date": "2025-11-13",
+      "tx_count": 2491,
+      "issued_qty": 4343.0,
+      "grn_qty": 850.0,
+      "issued_val": 10593.479999999909,
+      "grn_val": 4888.95,
+      "returned_qty": 678.0
+    },
+    {
+      "date": "2025-11-14",
+      "tx_count": 2760,
+      "issued_qty": 3945.0,
+      "grn_qty": 2872.0,
+      "issued_val": 3615.760000000013,
+      "grn_val": 4961.020000000001,
+      "returned_qty": 911.0
+    },
+    {
+      "date": "2025-11-15",
+      "tx_count": 2255,
+      "issued_qty": 3879.0,
+      "grn_qty": 1037.0,
+      "issued_val": 3043.749999999985,
+      "grn_val": 9048.19,
+      "returned_qty": 1173.0
+    },
+    {
+      "date": "2025-11-17",
+      "tx_count": 2250,
+      "issued_qty": 3021.0,
+      "grn_qty": 3460.0,
+      "issued_val": 5406.210000000007,
+      "grn_val": 13271.530000000002,
+      "returned_qty": 1694.0
+    },
+    {
+      "date": "2025-11-18",
+      "tx_count": 2549,
+      "issued_qty": 4168.0,
+      "grn_qty": 946.0,
+      "issued_val": 12584.319999999982,
+      "grn_val": 10508.039999999997,
+      "returned_qty": 1865.0
+    },
+    {
+      "date": "2025-11-19",
+      "tx_count": 2100,
+      "issued_qty": 2438.0,
+      "grn_qty": 120.0,
+      "issued_val": 2553.9799999999823,
+      "grn_val": 34.22,
+      "returned_qty": 475.0
+    },
+    {
+      "date": "2025-11-20",
+      "tx_count": 2445,
+      "issued_qty": 3601.0,
+      "grn_qty": 2256.0,
+      "issued_val": 9002.32000000001,
+      "grn_val": 6914.2300000000005,
+      "returned_qty": 597.0
+    },
+    {
+      "date": "2025-11-21",
+      "tx_count": 2335,
+      "issued_qty": 3795.0,
+      "grn_qty": 1574.0,
+      "issued_val": 3935.570000000023,
+      "grn_val": 3148.6,
+      "returned_qty": 583.0
+    },
+    {
+      "date": "2025-11-22",
+      "tx_count": 1189,
+      "issued_qty": 2125.0,
+      "grn_qty": 587.0,
+      "issued_val": 2196.1899999999982,
+      "grn_val": 4507.979999999999,
+      "returned_qty": 294.0
+    },
+    {
+      "date": "2025-11-23",
+      "tx_count": 10,
+      "issued_qty": 10.0,
+      "grn_qty": 1.0,
+      "issued_val": 256.69000000000005,
+      "grn_val": 227.3,
+      "returned_qty": 0.0
+    },
+    {
+      "date": "2025-11-24",
+      "tx_count": 2318,
+      "issued_qty": 3258.0,
+      "grn_qty": 374.0,
+      "issued_val": 2311.1699999999955,
+      "grn_val": 1002.2199999999999,
+      "returned_qty": 1357.0
+    },
+    {
+      "date": "2025-11-25",
+      "tx_count": 2292,
+      "issued_qty": 3275.0,
+      "grn_qty": 3703.0,
+      "issued_val": 7967.090000000011,
+      "grn_val": 10219.32,
+      "returned_qty": 489.0
+    },
+    {
+      "date": "2025-11-26",
+      "tx_count": 2198,
+      "issued_qty": 2427.0,
+      "grn_qty": 1147.0,
+      "issued_val": 3314.929999999983,
+      "grn_val": 4440.710000000001,
+      "returned_qty": 695.0
+    },
+    {
+      "date": "2025-11-27",
+      "tx_count": 1812,
+      "issued_qty": 1973.0,
+      "grn_qty": 2356.0,
+      "issued_val": 3375.090000000002,
+      "grn_val": 3290.5600000000004,
+      "returned_qty": 507.0
+    },
+    {
+      "date": "2025-11-28",
+      "tx_count": 236,
+      "issued_qty": 277.0,
+      "grn_qty": 0.0,
+      "issued_val": 322.3300000000001,
+      "grn_val": 0.0,
+      "returned_qty": 60.0
+    },
+    {
+      "date": "2025-11-29",
+      "tx_count": 137,
+      "issued_qty": 144.0,
+      "grn_qty": 0.0,
+      "issued_val": 187.35999999999987,
+      "grn_val": 0.0,
+      "returned_qty": 92.0
+    },
+    {
+      "date": "2025-12-01",
+      "tx_count": 1450,
+      "issued_qty": 1743.0,
+      "grn_qty": 153.0,
+      "issued_val": 1860.9799999999939,
+      "grn_val": 31.73,
+      "returned_qty": 281.0
+    },
+    {
+      "date": "2025-12-02",
+      "tx_count": 2061,
+      "issued_qty": 4554.0,
+      "grn_qty": 3316.0,
+      "issued_val": 7646.250000000008,
+      "grn_val": 4960.970000000001,
+      "returned_qty": 660.0
+    },
+    {
+      "date": "2025-12-03",
+      "tx_count": 2455,
+      "issued_qty": 4014.0,
+      "grn_qty": 4141.0,
+      "issued_val": 3334.349999999978,
+      "grn_val": 4179.18,
+      "returned_qty": 1241.0
+    },
+    {
+      "date": "2025-12-04",
+      "tx_count": 1699,
+      "issued_qty": 2551.0,
+      "grn_qty": 1163.0,
+      "issued_val": 1638.659999999995,
+      "grn_val": 3661.65,
+      "returned_qty": 391.0
+    },
+    {
+      "date": "2025-12-05",
+      "tx_count": 2447,
+      "issued_qty": 3335.0,
+      "grn_qty": 844.0,
+      "issued_val": 8067.930000000073,
+      "grn_val": 6780.270000000001,
+      "returned_qty": 1950.0
+    },
+    {
+      "date": "2025-12-06",
+      "tx_count": 2500,
+      "issued_qty": 3787.0,
+      "grn_qty": 2053.0,
+      "issued_val": 3466.250000000011,
+      "grn_val": 4097.5,
+      "returned_qty": 1089.0
+    },
+    {
+      "date": "2025-12-07",
+      "tx_count": 72,
+      "issued_qty": 133.0,
+      "grn_qty": 0.0,
+      "issued_val": 10.379999999999999,
+      "grn_val": 0.0,
+      "returned_qty": 5.0
+    },
+    {
+      "date": "2025-12-08",
+      "tx_count": 2458,
+      "issued_qty": 2828.0,
+      "grn_qty": 2228.0,
+      "issued_val": 3935.179999999987,
+      "grn_val": 10519.49,
+      "returned_qty": 674.0
+    },
+    {
+      "date": "2025-12-09",
+      "tx_count": 2543,
+      "issued_qty": 5235.0,
+      "grn_qty": 2059.0,
+      "issued_val": 6535.559999999996,
+      "grn_val": 4717.550000000002,
+      "returned_qty": 1895.0
+    },
+    {
+      "date": "2025-12-10",
+      "tx_count": 2228,
+      "issued_qty": 3216.0,
+      "grn_qty": 2025.0,
+      "issued_val": 6878.690000000003,
+      "grn_val": 7436.450000000002,
+      "returned_qty": 814.0
+    },
+    {
+      "date": "2025-12-11",
+      "tx_count": 2286,
+      "issued_qty": 5239.0,
+      "grn_qty": 5764.0,
+      "issued_val": 8918.169999999995,
+      "grn_val": 17447.109999999997,
+      "returned_qty": 3209.0
+    },
+    {
+      "date": "2025-12-12",
+      "tx_count": 2442,
+      "issued_qty": 2942.0,
+      "grn_qty": 7569.0,
+      "issued_val": 2548.569999999999,
+      "grn_val": 9708.539999999999,
+      "returned_qty": 598.0
+    },
+    {
+      "date": "2025-12-13",
+      "tx_count": 2243,
+      "issued_qty": 3765.0,
+      "grn_qty": 752.0,
+      "issued_val": 4411.48000000003,
+      "grn_val": 2348.1699999999996,
+      "returned_qty": 1087.0
+    },
+    {
+      "date": "2025-12-15",
+      "tx_count": 2422,
+      "issued_qty": 3284.0,
+      "grn_qty": 1088.0,
+      "issued_val": 4005.2600000000198,
+      "grn_val": 5446.490000000001,
+      "returned_qty": 811.0
+    },
+    {
+      "date": "2025-12-16",
+      "tx_count": 2693,
+      "issued_qty": 4365.0,
+      "grn_qty": 2092.0,
+      "issued_val": 10310.419999999913,
+      "grn_val": 11857.550000000003,
+      "returned_qty": 1648.0
+    },
+    {
+      "date": "2025-12-17",
+      "tx_count": 2566,
+      "issued_qty": 4154.0,
+      "grn_qty": 3198.0,
+      "issued_val": 6170.439999999976,
+      "grn_val": 8756.380000000001,
+      "returned_qty": 1102.0
+    },
+    {
+      "date": "2025-12-18",
+      "tx_count": 2631,
+      "issued_qty": 6269.0,
+      "grn_qty": 1658.0,
+      "issued_val": 6924.989999999967,
+      "grn_val": 3284.4900000000002,
+      "returned_qty": 850.0
+    },
+    {
+      "date": "2025-12-19",
+      "tx_count": 2100,
+      "issued_qty": 2945.0,
+      "grn_qty": 206.0,
+      "issued_val": 2830.890000000014,
+      "grn_val": 1999.37,
+      "returned_qty": 459.0
+    },
+    {
+      "date": "2025-12-20",
+      "tx_count": 1850,
+      "issued_qty": 2617.0,
+      "grn_qty": 384.0,
+      "issued_val": 2313.369999999993,
+      "grn_val": 1537.12,
+      "returned_qty": 547.0
+    },
+    {
+      "date": "2025-12-21",
+      "tx_count": 78,
+      "issued_qty": 125.0,
+      "grn_qty": 0.0,
+      "issued_val": 726.9399999999999,
+      "grn_val": 0.0,
+      "returned_qty": 0.0
+    },
+    {
+      "date": "2025-12-22",
+      "tx_count": 2325,
+      "issued_qty": 2796.0,
+      "grn_qty": 1391.0,
+      "issued_val": 2121.9999999999736,
+      "grn_val": 3061.0700000000006,
+      "returned_qty": 595.0
+    },
+    {
+      "date": "2025-12-23",
+      "tx_count": 2258,
+      "issued_qty": 4128.0,
+      "grn_qty": 1234.0,
+      "issued_val": 12360.27999999997,
+      "grn_val": 11554.65,
+      "returned_qty": 754.0
+    },
+    {
+      "date": "2025-12-24",
+      "tx_count": 1851,
+      "issued_qty": 2012.0,
+      "grn_qty": 448.0,
+      "issued_val": 1272.3400000000006,
+      "grn_val": 1379.0600000000002,
+      "returned_qty": 730.0
+    },
+    {
+      "date": "2025-12-26",
+      "tx_count": 1606,
+      "issued_qty": 2189.0,
+      "grn_qty": 37.0,
+      "issued_val": 880.4300000000021,
+      "grn_val": 37.6,
+      "returned_qty": 1313.0
+    },
+    {
+      "date": "2025-12-27",
+      "tx_count": 1724,
+      "issued_qty": 2034.0,
+      "grn_qty": 1477.0,
+      "issued_val": 2598.969999999998,
+      "grn_val": 27321.069999999996,
+      "returned_qty": 624.0
+    },
+    {
+      "date": "2025-12-29",
+      "tx_count": 2309,
+      "issued_qty": 3444.0,
+      "grn_qty": 1968.0,
+      "issued_val": 4970.88999999998,
+      "grn_val": 5683.25,
+      "returned_qty": 788.0
+    },
+    {
+      "date": "2025-12-30",
+      "tx_count": 2186,
+      "issued_qty": 3436.0,
+      "grn_qty": 3366.0,
+      "issued_val": 6961.210000000025,
+      "grn_val": 10735.550000000001,
+      "returned_qty": 937.0
+    },
+    {
+      "date": "2025-12-31",
+      "tx_count": 2490,
+      "issued_qty": 4727.0,
+      "grn_qty": 992.0,
+      "issued_val": 5338.490000000007,
+      "grn_val": 3978.7,
+      "returned_qty": 878.0
+    },
+    {
+      "date": "2026-01-01",
+      "tx_count": 460,
+      "issued_qty": 527.0,
+      "grn_qty": 0.0,
+      "issued_val": 534.7799999999997,
+      "grn_val": 0.0,
+      "returned_qty": 118.0
+    },
+    {
+      "date": "2026-01-02",
+      "tx_count": 1947,
+      "issued_qty": 2641.0,
+      "grn_qty": 339.0,
+      "issued_val": 2239.4199999999846,
+      "grn_val": 3324.7500000000005,
+      "returned_qty": 306.0
+    },
+    {
+      "date": "2026-01-03",
+      "tx_count": 34,
+      "issued_qty": 62.0,
+      "grn_qty": 0.0,
+      "issued_val": 5.32,
+      "grn_val": 0.0,
+      "returned_qty": 0.0
+    },
+    {
+      "date": "2026-01-04",
+      "tx_count": 26,
+      "issued_qty": 0.0,
+      "grn_qty": 0.0,
+      "issued_val": 0.0,
+      "grn_val": 0.0,
+      "returned_qty": 0.0
+    },
+    {
+      "date": "2026-01-05",
+      "tx_count": 2274,
+      "issued_qty": 3148.0,
+      "grn_qty": 48.0,
+      "issued_val": 2535.1499999999896,
+      "grn_val": 266.25,
+      "returned_qty": 1176.0
+    },
+    {
+      "date": "2026-01-06",
+      "tx_count": 2420,
+      "issued_qty": 3486.0,
+      "grn_qty": 36.0,
+      "issued_val": 3990.31000000002,
+      "grn_val": 1839.27,
+      "returned_qty": 1371.0
+    },
+    {
+      "date": "2026-01-07",
+      "tx_count": 2564,
+      "issued_qty": 3425.0,
+      "grn_qty": 86.0,
+      "issued_val": 2913.6500000000124,
+      "grn_val": 757.0199999999999,
+      "returned_qty": 1215.0
+    },
+    {
+      "date": "2026-01-08",
+      "tx_count": 2479,
+      "issued_qty": 2773.0,
+      "grn_qty": 0.0,
+      "issued_val": 2529.3400000000174,
+      "grn_val": 0.0,
+      "returned_qty": 644.0
+    },
+    {
+      "date": "2026-01-09",
+      "tx_count": 2215,
+      "issued_qty": 2718.0,
+      "grn_qty": 239.0,
+      "issued_val": 2462.689999999988,
+      "grn_val": 115.99,
+      "returned_qty": 631.0
+    },
+    {
+      "date": "2026-01-10",
+      "tx_count": 2062,
+      "issued_qty": 2653.0,
+      "grn_qty": 96.0,
+      "issued_val": 3772.5300000000216,
+      "grn_val": 1848.54,
+      "returned_qty": 611.0
+    },
+    {
+      "date": "2026-01-12",
+      "tx_count": 2319,
+      "issued_qty": 2972.0,
+      "grn_qty": 3372.0,
+      "issued_val": 5398.939999999992,
+      "grn_val": 1325.4199999999998,
+      "returned_qty": 806.0
+    },
+    {
+      "date": "2026-01-13",
+      "tx_count": 2250,
+      "issued_qty": 2812.0,
+      "grn_qty": 4295.0,
+      "issued_val": 7903.38,
+      "grn_val": 18350.049999999992,
+      "returned_qty": 373.0
+    },
+    {
+      "date": "2026-01-14",
+      "tx_count": 1937,
+      "issued_qty": 2288.0,
+      "grn_qty": 1035.0,
+      "issued_val": 2215.3099999999963,
+      "grn_val": 833.26,
+      "returned_qty": 563.0
+    },
+    {
+      "date": "2026-01-15",
+      "tx_count": 1078,
+      "issued_qty": 2394.0,
+      "grn_qty": 2752.0,
+      "issued_val": 1935.9899999999923,
+      "grn_val": 2152.7000000000003,
+      "returned_qty": 133.0
+    },
+    {
+      "date": "2026-01-16",
+      "tx_count": 2497,
+      "issued_qty": 2933.0,
+      "grn_qty": 3921.0,
+      "issued_val": 2866.4599999999855,
+      "grn_val": 11279.479999999998,
+      "returned_qty": 936.0
+    },
+    {
+      "date": "2026-01-17",
+      "tx_count": 2356,
+      "issued_qty": 4285.0,
+      "grn_qty": 3606.0,
+      "issued_val": 12817.099999999924,
+      "grn_val": 12488.320000000005,
+      "returned_qty": 700.0
+    },
+    {
+      "date": "2026-01-19",
+      "tx_count": 2942,
+      "issued_qty": 3563.0,
+      "grn_qty": 293.0,
+      "issued_val": 3572.180000000004,
+      "grn_val": 477.79,
+      "returned_qty": 1040.0
+    },
+    {
+      "date": "2026-01-20",
+      "tx_count": 2923,
+      "issued_qty": 4053.0,
+      "grn_qty": 123.0,
+      "issued_val": 4947.620000000015,
+      "grn_val": 6476.62,
+      "returned_qty": 1074.0
+    },
+    {
+      "date": "2026-01-21",
+      "tx_count": 2961,
+      "issued_qty": 4074.0,
+      "grn_qty": 185.0,
+      "issued_val": 4819.730000000034,
+      "grn_val": 3590.2999999999997,
+      "returned_qty": 1029.0
+    },
+    {
+      "date": "2026-01-22",
+      "tx_count": 2681,
+      "issued_qty": 3845.0,
+      "grn_qty": 1563.0,
+      "issued_val": 10208.730000000056,
+      "grn_val": 2170.9,
+      "returned_qty": 578.0
+    },
+    {
+      "date": "2026-01-23",
+      "tx_count": 2451,
+      "issued_qty": 3117.0,
+      "grn_qty": 870.0,
+      "issued_val": 8851.899999999994,
+      "grn_val": 3528.67,
+      "returned_qty": 471.0
+    },
+    {
+      "date": "2026-01-24",
+      "tx_count": 1912,
+      "issued_qty": 3544.0,
+      "grn_qty": 1094.0,
+      "issued_val": 3961.899999999988,
+      "grn_val": 2672.1300000000006,
+      "returned_qty": 1564.0
+    },
+    {
+      "date": "2026-01-26",
+      "tx_count": 2556,
+      "issued_qty": 4686.0,
+      "grn_qty": 3301.0,
+      "issued_val": 11715.419999999902,
+      "grn_val": 3248.920000000001,
+      "returned_qty": 1868.0
+    },
+    {
+      "date": "2026-01-27",
+      "tx_count": 2993,
+      "issued_qty": 4817.0,
+      "grn_qty": 2174.0,
+      "issued_val": 7762.360000000035,
+      "grn_val": 13084.729999999998,
+      "returned_qty": 1379.0
+    },
+    {
+      "date": "2026-01-28",
+      "tx_count": 2369,
+      "issued_qty": 6406.0,
+      "grn_qty": 1184.0,
+      "issued_val": 5628.339999999993,
+      "grn_val": 2432.5099999999998,
+      "returned_qty": 1242.0
+    },
+    {
+      "date": "2026-01-29",
+      "tx_count": 2531,
+      "issued_qty": 3620.0,
+      "grn_qty": 340.0,
+      "issued_val": 6446.109999999985,
+      "grn_val": 1389.84,
+      "returned_qty": 1079.0
+    },
+    {
+      "date": "2026-01-30",
+      "tx_count": 2851,
+      "issued_qty": 9385.0,
+      "grn_qty": 3661.0,
+      "issued_val": 42573.73999999991,
+      "grn_val": 7200.280000000001,
+      "returned_qty": 729.0
+    },
+    {
+      "date": "2026-01-31",
+      "tx_count": 1800,
+      "issued_qty": 2148.0,
+      "grn_qty": 125.0,
+      "issued_val": 3193.7599999999834,
+      "grn_val": 821.82,
+      "returned_qty": 429.0
+    }
+  ],
+  "weekly": [
+    {
+      "week": "2025-10-27",
+      "tx_count": 1935,
+      "issued_qty": 2836.0,
+      "grn_qty": 2659.0,
+      "issued_val": 4599.92000000003,
+      "grn_val": 3210.619999999999,
+      "returned_qty": 400.0
+    },
+    {
+      "week": "2025-11-03",
+      "tx_count": 11219,
+      "issued_qty": 18148.0,
+      "grn_qty": 7632.0,
+      "issued_val": 25889.109999999542,
+      "grn_val": 33062.69000000002,
+      "returned_qty": 4465.0
+    },
+    {
+      "week": "2025-11-10",
+      "tx_count": 15003,
+      "issued_qty": 25947.0,
+      "grn_qty": 11941.0,
+      "issued_val": 32487.380000000107,
+      "grn_val": 45417.12999999998,
+      "returned_qty": 6149.0
+    },
+    {
+      "week": "2025-11-17",
+      "tx_count": 12878,
+      "issued_qty": 19158.0,
+      "grn_qty": 8944.0,
+      "issued_val": 35935.280000000115,
+      "grn_val": 38611.899999999994,
+      "returned_qty": 5508.0
+    },
+    {
+      "week": "2025-11-24",
+      "tx_count": 8993,
+      "issued_qty": 11354.0,
+      "grn_qty": 7580.0,
+      "issued_val": 17477.97,
+      "grn_val": 18952.810000000005,
+      "returned_qty": 3200.0
+    },
+    {
+      "week": "2025-12-01",
+      "tx_count": 12684,
+      "issued_qty": 20117.0,
+      "grn_qty": 11670.0,
+      "issued_val": 26024.799999999952,
+      "grn_val": 23711.299999999985,
+      "returned_qty": 5617.0
+    },
+    {
+      "week": "2025-12-08",
+      "tx_count": 14200,
+      "issued_qty": 23225.0,
+      "grn_qty": 20397.0,
+      "issued_val": 33227.65000000045,
+      "grn_val": 52177.31000000001,
+      "returned_qty": 8277.0
+    },
+    {
+      "week": "2025-12-15",
+      "tx_count": 14340,
+      "issued_qty": 23759.0,
+      "grn_qty": 8626.0,
+      "issued_val": 33282.31000000022,
+      "grn_val": 32881.39999999999,
+      "returned_qty": 5417.0
+    },
+    {
+      "week": "2025-12-22",
+      "tx_count": 9764,
+      "issued_qty": 13159.0,
+      "grn_qty": 4587.0,
+      "issued_val": 19234.019999999633,
+      "grn_val": 43353.45000000003,
+      "returned_qty": 4016.0
+    },
+    {
+      "week": "2025-12-29",
+      "tx_count": 9452,
+      "issued_qty": 14837.0,
+      "grn_qty": 6665.0,
+      "issued_val": 20050.110000000215,
+      "grn_val": 23722.25,
+      "returned_qty": 3027.0
+    },
+    {
+      "week": "2026-01-05",
+      "tx_count": 14014,
+      "issued_qty": 18203.0,
+      "grn_qty": 505.0,
+      "issued_val": 18203.669999999616,
+      "grn_val": 4827.069999999997,
+      "returned_qty": 5648.0
+    },
+    {
+      "week": "2026-01-12",
+      "tx_count": 12437,
+      "issued_qty": 17684.0,
+      "grn_qty": 18981.0,
+      "issued_val": 33137.18000000117,
+      "grn_val": 46429.23,
+      "returned_qty": 3511.0
+    },
+    {
+      "week": "2026-01-19",
+      "tx_count": 15870,
+      "issued_qty": 22196.0,
+      "grn_qty": 4128.0,
+      "issued_val": 36362.05999999977,
+      "grn_val": 18916.41,
+      "returned_qty": 5756.0
+    },
+    {
+      "week": "2026-01-26",
+      "tx_count": 15100,
+      "issued_qty": 31062.0,
+      "grn_qty": 10785.0,
+      "issued_val": 77319.73000000024,
+      "grn_val": 28178.100000000002,
+      "returned_qty": 6726.0
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2025-11",
+      "tx_count": 50028,
+      "issued_qty": 77443.0,
+      "grn_qty": 38756.0,
+      "issued_val": 116389.6600000205,
+      "grn_val": 139255.15000000005,
+      "returned_qty": 19722.0
+    },
+    {
+      "month": "2025-12",
+      "tx_count": 57973,
+      "issued_qty": 91867.0,
+      "grn_qty": 51606.0,
+      "issued_val": 129039.37000002404,
+      "grn_val": 172520.9600000002,
+      "returned_qty": 25930.0
+    },
+    {
+      "month": "2026-01",
+      "tx_count": 59888,
+      "issued_qty": 92375.0,
+      "grn_qty": 34738.0,
+      "issued_val": 167802.16000002046,
+      "grn_val": 101675.56000000013,
+      "returned_qty": 22065.0
+    }
+  ],
+  "needle_forecast": [
+    {
+      "week": "2026-02-02",
+      "projected_qty": 14635.6
+    },
+    {
+      "week": "2026-02-09",
+      "projected_qty": 14814.9
+    },
+    {
+      "week": "2026-02-16",
+      "projected_qty": 14994.2
+    },
+    {
+      "week": "2026-02-23",
+      "projected_qty": 15173.5
+    }
+  ],
+  "needle_history": [
+    {
+      "week": "2025-10-27",
+      "qty": 2024.0
+    },
+    {
+      "week": "2025-11-03",
+      "qty": 12769.0
+    },
+    {
+      "week": "2025-11-10",
+      "qty": 16037.0
+    },
+    {
+      "week": "2025-11-17",
+      "qty": 13583.0
+    },
+    {
+      "week": "2025-11-24",
+      "qty": 8411.0
+    },
+    {
+      "week": "2025-12-01",
+      "qty": 13554.0
+    },
+    {
+      "week": "2025-12-08",
+      "qty": 16992.0
+    },
+    {
+      "week": "2025-12-15",
+      "qty": 15532.0
+    },
+    {
+      "week": "2025-12-22",
+      "qty": 9730.0
+    },
+    {
+      "week": "2025-12-29",
+      "qty": 9069.0
+    },
+    {
+      "week": "2026-01-05",
+      "qty": 14470.0
+    },
+    {
+      "week": "2026-01-12",
+      "qty": 11676.0
+    },
+    {
+      "week": "2026-01-19",
+      "qty": 16049.0
+    },
+    {
+      "week": "2026-01-26",
+      "qty": 15630.0
+    }
+  ]
+}

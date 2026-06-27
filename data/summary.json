@@ -1,0 +1,123 @@
+{
+  "kpis": {
+    "total_transactions": 167889,
+    "total_qty_issued": 261685.0,
+    "total_qty_received": 125100.0,
+    "total_qty_returned": 67717.0,
+    "total_issued_value": 413231.19,
+    "total_grn_value": 413451.67,
+    "net_inventory_flow": 220.48,
+    "active_skus": 4845,
+    "active_locations": 29,
+    "active_categories": 183,
+    "active_assets": 169,
+    "active_lines": 18,
+    "reusable_transactions_count": 3079,
+    "reusable_transactions_pct": 1.83,
+    "reusable_savings_value": 0.0
+  },
+  "top_categories_by_value": [
+    {
+      "category": "CUTG",
+      "value": 118225.04,
+      "qty": 7436.0
+    },
+    {
+      "category": "NEED",
+      "value": 20555.67,
+      "qty": 175526.0
+    },
+    {
+      "category": "DEVI",
+      "value": 19669.93,
+      "qty": 804.0
+    },
+    {
+      "category": "CUTE",
+      "value": 18532.08,
+      "qty": 1544.0
+    },
+    {
+      "category": "GPNI",
+      "value": 15892.58,
+      "qty": 16728.0
+    },
+    {
+      "category": "OEMKT",
+      "value": 15845.15,
+      "qty": 1125.0
+    },
+    {
+      "category": "KNBP",
+      "value": 12952.13,
+      "qty": 1038.0
+    },
+    {
+      "category": "CONV",
+      "value": 12387.43,
+      "qty": 2511.0
+    },
+    {
+      "category": "ELTN",
+      "value": 11830.91,
+      "qty": 1004.0
+    },
+    {
+      "category": "OEMAA",
+      "value": 11810.13,
+      "qty": 3554.0
+    }
+  ],
+  "top_locations_by_value": [
+    {
+      "location_id": "DEMO_LOC0004",
+      "value": 71074.71,
+      "qty": 34517.0
+    },
+    {
+      "location_id": "DEMO_LOC0005",
+      "value": 57186.08,
+      "qty": 22639.0
+    },
+    {
+      "location_id": "DEMO_LOC0023",
+      "value": 44998.51,
+      "qty": 15551.0
+    },
+    {
+      "location_id": "DEMO_LOC0001",
+      "value": 43692.46,
+      "qty": 5446.0
+    },
+    {
+      "location_id": "DEMO_LOC0022",
+      "value": 39109.77,
+      "qty": 6381.0
+    },
+    {
+      "location_id": "DEMO_LOC0016",
+      "value": 31687.82,
+      "qty": 7028.0
+    },
+    {
+      "location_id": "DEMO_LOC0006",
+      "value": 18094.75,
+      "qty": 7483.0
+    },
+    {
+      "location_id": "DEMO_LOC0017",
+      "value": 16333.91,
+      "qty": 6416.0
+    },
+    {
+      "location_id": "DEMO_LOC0008",
+      "value": 14229.91,
+      "qty": 5275.0
+    },
+    {
+      "location_id": "DEMO_LOC0003",
+      "value": 14045.87,
+      "qty": 12840.0
+    }
+  ]
+}
